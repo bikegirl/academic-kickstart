@@ -23,11 +23,6 @@
   url = "#featured"
   weight = 40
   
- [[main]]
-  name = "Curriculum  Vitae"  # A link title for your page.
-  url = "{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}/"  # The URL of your page.
-  weight = 50  # The position of your page in the menu. 
-
 [[main]]
   name = "Contact"
   url = "#contact"
@@ -35,7 +30,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 70
