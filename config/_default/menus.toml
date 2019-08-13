@@ -22,6 +22,11 @@
   name = "Publications"
   url = "#featured"
   weight = 40
+  
+ [[main]]
+  name = "Curriculum  Vitae"  # A link title for your page.
+  url = "{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu. 
 
 [[main]]
   name = "Contact"
