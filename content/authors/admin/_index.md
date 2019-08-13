@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Rebecca Iglesias-Flores
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: CS PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Pennsylvania
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include persuasive content messaging and AI in Mental Health
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Natural Language Processing
+- Persuasive Content Messaging
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Student in Natural Language Processing
+    institution: University of Pennsylvania
+    year: Anticipated May 2024
+  - course: MSE/MCIT Student in Computer Science
+    institution: University of Pennsylvania
+    year: Anticipated May 2020
+  - course: BSc in Chemistry
+    institution: Texas State University
+    year: 2012    
+  - course: ASc in Computer Science
+    institution: Austin Community College
+  - course: AA in Spanish Foreign Language
+    institution: Austin Community College       
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
