@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Rebecca Iglesias-Flores
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: CS PhD Student - Natural Language Processing
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Pennsylvania
+  url: "https://www.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include NLP, Persuasive Content-Messaging and A.I. in Mental Health.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Persuasive Content Messaging
+- Natural Language Processing
+- Artificial Intelligence in Mental Health and Wellness
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD Student in Computer Science
+    institution: University of Pennsylvania
+    Anticipated: May 2023
+  - course: MSE/MCIT student in Computer Science
+    institution: University of Pennsylvania
+    Anticipated: May 2020
+  - course: BSc in Chemistry
+    institution: Texas State University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: ASc in Computer Science
+    institution: Austin Community College
+  - course: AA in Spanish Foreign Language and Literature
+    institution: Austin Community College
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:irebecca@seas.upenn.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/greedykruskal
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/bikegirl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
