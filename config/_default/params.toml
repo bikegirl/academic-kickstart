@@ -15,7 +15,7 @@ font = "default"
 description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "blonde"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "greedykruskal"
@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "irebecca@seas.upenn.edu"
 phone = "512 299 47 18"
 address = "3401 Walnut St., 4th FL C-Wing, RM 464C, Philadelphia, PA 19104"
 
@@ -115,7 +115,7 @@ plugins_js  = []
 ############################
 
 # Get user avatars from Gravatar.com? (true/false)
-gravatar = false
+gravatar = true
 
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = false
