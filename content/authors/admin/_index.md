@@ -35,7 +35,7 @@ education:
     year: Anticipated May 2020
   - course: BSc in Chemistry
     institution: Texas State University
-    year: 2012
+    year: 2010
   - course: ASc in Computer Science
     institution: Austin Community College
   - course: AA in Spanish Foreign Language and Literature
