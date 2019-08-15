@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD Student in Computer Science
     institution: University of Pennsylvania
-    year: EGD May 2023
+    year: Anticipated May 2023
   - course: MSE/MCIT Student in Computer Science
     institution: University of Pennsylvania
-    year: EGD May 2020
+    year: Anticipated May 2020
   - course: BSc in Chemistry
     institution: Texas State University
     year: 2012
