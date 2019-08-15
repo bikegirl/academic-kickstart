@@ -75,4 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< video library="1" src="my_video.mp4" controls="yes" >}}
+{{< video library="1" src="NCWIT_MotBoost.MOV" controls="yes" >}}
