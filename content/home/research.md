@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
+   # [[content.filter_button]]
+   #  name = "All"
+   #  tag = "*"
   
-   [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+   # [[content.filter_button]]
+   #  name = "Deep Learning"
+   #  tag = "Deep Learning"
   
-   [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+   # [[content.filter_button]]
+   #  name = "Other"
+   #  tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,9 +74,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<br>
-<br>
-<br>
 &emsp;&emsp;Under the advisement of [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) with the School to Engineering and Applied Science and [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) with the Annenberg School for Communication at the University of Pennsylvania, my PhD research project is a cross discipline collaboration between Natural Language Processing (NLP) and Cognitive Science called Motivational Boost.
 <br>
 <br>
