@@ -9,7 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/img/` folder).
-header: Quantitative Determination of Co-Eluting Compounds by Using Extract Ion Chromatogram in GC–MS
-  caption: "Analytical Chemistry"
-  image: "chemEducator.PNG"
+header: 
+  caption: ""
+  image: ""
 ---
