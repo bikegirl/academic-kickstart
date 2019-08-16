@@ -19,7 +19,7 @@ height = "375px"
 [[item]]
   #title = "Left"
   content = "Life is about climbing hills." #"I am left aligned :smile:"
-  align = "center"
+  align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slided.JPG"  # Image path relative to your `static/img/` folder.
