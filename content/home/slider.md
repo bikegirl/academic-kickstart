@@ -45,7 +45,7 @@ height = "375px"
 
 [[item]]
   #title = "Right"
-  content = about #"I am right aligned :smile:"
+  content = "about" #"I am right aligned :smile:"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
