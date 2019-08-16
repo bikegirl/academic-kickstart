@@ -40,15 +40,15 @@ height = "375px"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slide5.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slide9.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 [[item]]
   #title = "Right"
   #content = "about" #"I am right aligned :smile:"
-  align = "right"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "slide10.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 +++
