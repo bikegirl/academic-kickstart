@@ -15,10 +15,20 @@ height = "375px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  #title = "Left"
+  #content = "Life is about climbing hills." #"I am left aligned :smile:"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slided.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+
 [[item]]
   #title = "Life is about climbing hills."
-  content = "Life is about climbing hills." #"I am center aligned :smile:"
-  align = "right"  # Choose `center`, `left`, or `right`.
+  #content = "Life is about climbing hills." #"I am center aligned :smile:"
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
