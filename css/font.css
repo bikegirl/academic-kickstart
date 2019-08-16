@@ -1,0 +1,334 @@
+/*
+ * Global resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+/* Prevent scroll on narrow devices */
+html,
+body {
+  overflow-x: hidden;
+}
+
+html {
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h7 {
+  font-family: 'Fahkwang', sans-serif;
+  font-weight: 400;
+  font-size: 1.2em;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h8 {
+  font-family: 'Indie Flower', cursive;
+  font-weight: 400;
+  font-size: 2.5em;
+  color: #313131;
+  size="+2"
+  letter-spacing: -.025rem;
+}
+
+h9 {
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: 400;
+  font-size: 1em;
+  color: #313131;
+  letter-spacing: -.035rem;
+}
+
+h10 {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 600;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h11 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 600;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h12 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h13 {
+  font-family: 'Mali', cursive;
+  font-weight: 500;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h14 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 300;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h15 {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 600;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h16 {
+  font-family: 'Srisakdi', cursive;
+  font-weight: 500;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h17 {
+  font-family: 'Acme', sans-serif;
+  font-weight: 600;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h18 {
+  font-family: 'Questrial', sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h19 {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h20 {
+  font-family: 'Permanent Marker', cursive;
+  font-weight: 500;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h21 {
+  font-family: 'Cinzel', serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h22 {
+  font-family: 'Hi Melody', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h23 {
+  font-family: 'Noto Serif KR', sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h24 {
+  font-family: 'Cookie', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h25 {
+  font-family: 'Poiret One', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h26 {
+  font-family: 'Khand', sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h27 {
+  font-family: 'Handlee', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h28 {
+  font-family: 'Tangerine', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h29 {
+  font-family: 'Bangers', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h30 {
+  font-family: 'Philosopher', sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h31 {
+  font-family: 'Neucha', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h32 {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h33 {
+  font-family: 'Rancho', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h34 {
+  font-family: 'Niconne', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h35 {
+  font-family: 'Fredericka the Great', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h36 {
+  font-family: 'Reenie Beanie', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h37 {
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h38 {
+  font-family: 'Mitr', sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h39 {
+  font-family: 'Gruppo', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h40 {
+  font-family: 'Kristi', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h41 {
+  font-family: 'Rochester', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h42 {
+  font-family: 'Faster One', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h43 {
+  font-family: 'Knewave', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h44 {
+  font-family: 'Give You Glory', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h45 {
+  font-family: 'Trirong', serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h46 {
+  font-family: 'Vast Shadow', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h47 {
+  font-family: 'Eater', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h48 {
+  font-family: 'Megrim', cursive
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h49 {
+  font-family: 'Sansita', sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+h50 {
+  font-family: 'Sriracha', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
