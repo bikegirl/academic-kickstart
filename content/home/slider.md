@@ -16,7 +16,7 @@ height = "375px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
-[[item]]
+[[item]] #1
   #title = "Left"
   content = "Life is about climbing hills." #"I am left aligned :smile:"
   align = "left"
@@ -25,7 +25,7 @@ height = "375px"
   overlay_img = "slided.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
-[[item]]
+[[item]] #2
   #title = "Life is about climbing hills."
   #content = "Life is about climbing hills." #"I am center aligned :smile:"
   align = "left"  # Choose `center`, `left`, or `right`.
@@ -44,21 +44,30 @@ height = "375px"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
-[[item]]
+[[item]] #3
   #title = "Left"
   #content = "is" #"I am left aligned :smile:"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slide9.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slide2.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
-[[item]]
+[[item]] #4
   #title = "Right"
   #content = "about" #"I am right aligned :smile:"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "slide10.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+
+[[item]] #5
+  #title = "Right"
+  #content = "about" #"I am right aligned :smile:"
+  align = "center"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "slide8.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 +++
