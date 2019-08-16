@@ -63,8 +63,9 @@ phone = "512 299 47 18"
 address = "3401 Walnut St., 4th FL C-Wing, RM 464C, Philadelphia, PA 19104"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Monday 15:00 to 17:00<br>
+                  Wednesday 15:00 to 17:00<br>
+                  Friday 15:00 to 17:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/greedykruskal"
