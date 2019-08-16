@@ -74,7 +74,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-&emsp;&emsp;Under the advisement of [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) with the School of Engineering and Applied Science and [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) with the Annenberg School for Communication at the University of Pennsylvania, my PhD research project is a cross discipline collaboration between Natural Language Processing (NLP) and Cognitive Science called Motivational Boost.
+&emsp;&emsp;&emsp;Under the advisement of [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) with the School of Engineering and Applied Science and [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) with the Annenberg School for Communication at the University of Pennsylvania, my PhD research project is a cross discipline collaboration between Natural Language Processing (NLP) and Cognitive Science called Motivational Boost.
 <br>
 <br>
 <br>
