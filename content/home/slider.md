@@ -35,13 +35,13 @@ height = "375px"
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  #title = "Left"
+  #content = "I am left aligned :smile:"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "slide2.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Right"
