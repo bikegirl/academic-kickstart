@@ -64,8 +64,8 @@ height = "325px"
 
 [[item]] #5
   #title = "Left"
-  content = "La Frontera"
-  align = "right"
+  content = "Great Hills"
+  align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "coverphoto5.JPG"  # Image path relative to your `static/img/` folder.
