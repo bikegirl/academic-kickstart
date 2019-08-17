@@ -22,7 +22,7 @@ height = "375px"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slided.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "bubbles-wide.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 [[item]] #2
@@ -33,7 +33,7 @@ height = "375px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slide3.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "bubbles-wide1b.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).  Add this action button later to one of the slides.
@@ -50,7 +50,7 @@ height = "375px"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slide2.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "bubbles-wide5.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 [[item]] #4
@@ -59,7 +59,7 @@ height = "375px"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slide10.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "bubbles-wide6b.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 [[item]] #5
@@ -68,6 +68,33 @@ height = "375px"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slide8.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "bubbles-wide7b.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+
+[[item]] #6
+  #title = "Left"
+  content = "Life is about climbing hills." #"I am left aligned :smile:"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "bubbles-wide8.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+
+[[item]] #7
+  #title = "Left"
+  content = "Life is about climbing hills." #"I am left aligned :smile:"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "bubbles-wide3.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+
+[[item]] #8
+  #title = "Left"
+  content = "Life is about climbing hills." #"I am left aligned :smile:"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "bubbles-wide.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 +++
