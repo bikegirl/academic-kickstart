@@ -65,15 +65,6 @@ height = "375px"
 [[item]] #5
   #title = "Left"
   content = "La Frontera"
-  align = "right"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "bubbles-wide4.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]] #6
-  #title = "Left"
-  #content = "is" #"I am left aligned :smile:"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
