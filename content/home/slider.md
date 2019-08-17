@@ -17,24 +17,33 @@ height = "375px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]] #1
-  #title = "Left"
-  #content = "Life is about climbing hills." "I am left aligned :smile:"
-  align = "center"
+  #title = "Right"
+  content = "Life is about climbing hills."
+  align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "bubbles-wide4.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_img = "bubbles-wide6.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]] #2
+  #title = "Left"
+  content = "Landa Park"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "bubbles-wide3.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]] #3
   #title = "Life is about climbing hills."
-  #content = "Life is about climbing hills." #"I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "Smokey Valley"
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "bubbles-wide3.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_img = "bubbles-wide8.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).  Add this action button later to one of the slides.
   #   Activate the button by specifying a URL and button label below.
@@ -44,14 +53,14 @@ height = "375px"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
-[[item]] #3
+[[item]] #4
   #title = "Left"
-  #content = "is" #"I am left aligned :smile:"
+  content = "Tour Das Hugel"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "bubbles-wide8.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_img = "bubbles-wide2.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]] #4
   #title = "Left"
@@ -59,17 +68,9 @@ height = "375px"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "bubbles-wide7.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_img = "bubbles-wide4.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-[[item]] #4
-  #title = "Left"
-  #content = "is" #"I am left aligned :smile:"
-  align = "center"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "bubbles-wide6.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 
 +++
