@@ -18,7 +18,7 @@ height = "375px"
 
 [[item]] #1
   #title = "Left"
-  content = "Life is about climbing hills." #"I am left aligned :smile:"
+  #content = "Life is about climbing hills." #"I am left aligned :smile:"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
