@@ -18,8 +18,8 @@ height = "375px"
 
 [[item]] #1
   #title = "Left"
-  #content = "Life is about climbing hills." #"I am left aligned :smile:"
-  align = center
+  #content = "Life is about climbing hills." "I am left aligned :smile:"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "bubbles-wide8.JPG"  # Image path relative to your `static/img/` folder.
