@@ -40,7 +40,7 @@ height = "350px"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slide1.PNG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "coverphoto3.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]] #4
@@ -51,7 +51,7 @@ height = "350px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slide2.PNG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "coverphoto4.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).  Add this action button later to one of the slides.
