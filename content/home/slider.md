@@ -18,7 +18,7 @@ height = "375px"
 
 [[item]] #1
   #title = "Right"
-  content = "<br><br>&emspLife is about climbing hills."
+  content = "<br><br>    Life is about climbing hills."
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
@@ -65,7 +65,7 @@ height = "375px"
 [[item]] #5
   #title = "Left"
   content = "La Frontera"
-  align = "left"
+  align = "right"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "bubbles-wide4.JPG"  # Image path relative to your `static/img/` folder.
