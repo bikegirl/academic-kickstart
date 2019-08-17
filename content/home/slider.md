@@ -59,10 +59,19 @@ height = "375px"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "bubbles-wide2.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slide5.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-[[item]] #4
+[[item]] #5
+  #title = "Left"
+  content = "La Frontera"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "bubbles-wide4.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]] #6
   #title = "Left"
   #content = "is" #"I am left aligned :smile:"
   align = "center"
@@ -70,7 +79,6 @@ height = "375px"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "bubbles-wide4.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
-
 
 
 +++
