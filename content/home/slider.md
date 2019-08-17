@@ -35,6 +35,15 @@ height = "350px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]] #3
+  #title = "Left"
+  content = "La Frontera"
+  align = "right"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slide1.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]] #4
   #title = "Life is about climbing hills."
   content = "Smokey Valley"
   align = "left"  # Choose `center`, `left`, or `right`.
@@ -42,7 +51,7 @@ height = "350px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "bubbles-wide8.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slide2.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).  Add this action button later to one of the slides.
@@ -53,7 +62,7 @@ height = "350px"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
-[[item]] #4
+[[item]] #5
   #title = "Left"
   content = "Tour Das Hugel"
   align = "center"
@@ -62,9 +71,9 @@ height = "350px"
   overlay_img = "slide5.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-[[item]] #5
+[[item]] #6
   #title = "Left"
-  content = "La Frontera"
+  #content = "La Frontera"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
