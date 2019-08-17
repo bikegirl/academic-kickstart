@@ -68,7 +68,7 @@ height = "325px"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "coverphoto5b.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "coverphoto5c.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]] #6
