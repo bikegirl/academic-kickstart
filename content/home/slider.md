@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "350px"
+height = "325px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -40,7 +40,7 @@ height = "350px"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slide1.PNG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "coverphoto3.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]] #4
@@ -51,7 +51,7 @@ height = "350px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slide2.PNG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "coverphoto4.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).  Add this action button later to one of the slides.
@@ -64,6 +64,15 @@ height = "350px"
 
 [[item]] #5
   #title = "Left"
+  content = "La Frontera"
+  align = "right"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "coverphoto5.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]] #6
+  #title = "Left"
   content = "Tour Das Hugel"
   align = "center"
 
@@ -71,7 +80,7 @@ height = "350px"
   overlay_img = "slide5.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-[[item]] #6
+[[item]] #7
   #title = "Left"
   #content = "La Frontera"
   align = "center"
