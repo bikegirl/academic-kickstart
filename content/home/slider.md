@@ -74,13 +74,31 @@ height = "325px"
 [[item]] #6
   #title = "Left"
   content = "Tour Das Hugel"
+  align = "right"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "coverphoto6.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]] #7
+  #title = "Left"
+  content = "Tour Das Hugel"
+  align = "right"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "coverphoto7.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]] #8
+  #title = "Left"
+  content = "Tour Das Hugel"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slide5.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-[[item]] #7
+[[item]] #9
   #title = "Left"
   #content = "La Frontera"
   align = "center"
