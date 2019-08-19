@@ -73,8 +73,8 @@ height = "325px"
 
 [[item]] #6
   #title = "Left"
-  content = "Spicewood Springs"
-  align = "right"
+  content = "West Courtyard"
+  align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "coverphoto6.JPG"  # Image path relative to your `static/img/` folder.
@@ -82,7 +82,7 @@ height = "325px"
 
 [[item]] #7
   #title = "Left"
-  content = "West Courtyard"
+  content = "Spicewood Springs"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
