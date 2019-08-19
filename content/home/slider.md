@@ -73,7 +73,7 @@ height = "325px"
 
 [[item]] #6
   #title = "Left"
-  content = "Tour Das Hugel"
+  content = "Spicewood Springs"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
@@ -82,7 +82,7 @@ height = "325px"
 
 [[item]] #7
   #title = "Left"
-  content = "Tour Das Hugel"
+  content = "West Courtyard"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
