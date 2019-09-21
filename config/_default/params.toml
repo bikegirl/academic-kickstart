@@ -22,7 +22,7 @@ twitter = "greedykruskal"
 
 # Diplay a logo in navigation bar rather than title (optional). Need to include .extension
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "NSFPennLogo_rev3.png"
+logo = "shield-only-RGB-4k.png"
 
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
