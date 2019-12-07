@@ -18,7 +18,7 @@ description = ""
 sharing_image = "blonde.JPG"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "greedykruskal"
+twitter = "tensorglow"
 
 # Diplay a logo in navigation bar rather than title (optional). Need to include .extension
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -73,7 +73,7 @@ appointment_url = "https://calendly.com/greedykruskal"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/greedykruskal"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/tensorglow"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
