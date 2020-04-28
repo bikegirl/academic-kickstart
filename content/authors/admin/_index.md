@@ -30,9 +30,9 @@ education:
   - course: PhD Student in Computer Science
     institution: University of Pennsylvania
     year: Anticipated May 2023
-  - course: MSE/MCIT Student in Computer Science
+  - course: MSE/MCIT in Computer Science
     institution: University of Pennsylvania
-    year: Anticipated May 2020
+    year: May 2020
   - course: BSc in Chemistry
     institution: Texas State University
     year: 2010
