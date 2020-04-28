@@ -33,10 +33,10 @@ education:
   - course: MS in Computer Science
     institution: University of Pennsylvania
     year: May 2020
-  - course: BSc in Chemistry
+  - course: BS in Chemistry
     institution: Texas State University
     year: 2010
-  - course: ASc in Computer Science
+  - course: AS in Computer Science
     institution: Austin Community College
   - course: AA in Spanish Foreign Language and Literature
     institution: Austin Community College
