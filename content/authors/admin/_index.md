@@ -30,9 +30,9 @@ education:
   - course: PhD Student in Computer Science
     institution: University of Pennsylvania
     year: Anticipated May 2023
-  - course: MSE/MCIT Student in Computer Science
+  - course: MS in Computer Science
     institution: University of Pennsylvania
-    year: Anticipated May 2020
+    year: May 2020
   - course: BSc in Chemistry
     institution: Texas State University
     year: 2010
@@ -59,7 +59,7 @@ social:
   icon_pack: fab
   link: https://github.com/bikegirl
 
- 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -78,6 +78,6 @@ user_groups:
 
 &emsp;&emsp;I am a 2nd-year CS PhD Student studying Natural Language Processing at the [University of Pennsylvania](https://www.seas.upenn.edu/).
 
-&emsp;&emsp;I am so very proud to have [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) as my PhD advisor and [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) as my collaborator advisor from the school of Annenberg for Communication (with secondary appointments in Marketing and Psychology).  I would like to take a brief moment to acknowledge my mentors and letter writers: [Dr. Benjamin Martin](https://www.txstate.edu/chemistry/people/faculty-alpha/martin.html) from [Texas State University](https://www.txstate.edu/) in San Marcos, TX and [Dr. Robin L. Garrell](https://www.chemistry.ucla.edu/directory/garrell-robin-l) from [University of California at Los Angeles](http://www.ucla.edu/).  Without their dedication and support, my path to graduate school would not have been possible.  I am also an [NSF GRFP Fellow](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList) and could not have had this 2nd-lease on life without the financial resources and support of the [National Science Foundation](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=6201&ods_key=nsf18573).  Daughter to Mexican immigrants of indigenous-Aztec descent, I am a 1st-generation U.S. Citizen, the first in my family to be attending University, and the first woman to be educated in our family in over 4 generations (that we have record for).  Before joining Penn, I grew up and finished school in Austin, TX with a BSc. in Chemistry and worked in the private sector for 7 years (KEEP AUSTIN WEIRD!!!).
+&emsp;&emsp;I am so very proud to have [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) as my PhD advisor and [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) as my collaborator advisor from the school of Annenberg for Communication.  I would like to take a brief moment to acknowledge my mentors and letter writers: [Dr. Benjamin Martin](https://www.txstate.edu/chemistry/people/faculty-alpha/martin.html) from [Texas State University](https://www.txstate.edu/) in San Marcos, TX and [Dr. Robin L. Garrell](https://www.chemistry.ucla.edu/directory/garrell-robin-l) from [University of California at Los Angeles](http://www.ucla.edu/).  Without their dedication and support, my path to graduate school would not have been possible.  I am also an [NSF GRFP Fellow](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList) and could not have had this 2nd-lease on life without the financial resources and support of the [National Science Foundation](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=6201&ods_key=nsf18573).  Daughter to Mexican immigrants of indigenous-Aztec descent, I am a 1st-generation U.S. Citizen, the first in my family to be attending University, and the first woman to be educated in our family in over 4 generations (that we have record for).  Before joining Penn, I grew up and finished school in Austin, TX with a BSc. in Chemistry and worked in the private sector for 7 years (KEEP AUSTIN WEIRD!!!).
 
-&emsp;&emsp;My decision to cross over from Chemistry to pursue Computer Science came about at one of my prior places of employment where I was introduced to Data Analytics while working for a Start-up company.  I worked with large data sets and maintained their database to bring formula/pathogen traceability to their finished product when I had no formal SQL or CS training. I found fulfillment in Data Analytics and it brought purpose to where I was once feeling a lack of job satisfaction before.  From this moment on, I knew I wanted to dedicate the rest of my life to Computer Science.  
+&emsp;&emsp;My decision to cross over from Chemistry to pursue Computer Science came about at one of my prior places of employment where I was introduced to Data Analytics using SQL while working for a Start-up company.  I worked with large data sets and maintained their database to bring formula/pathogen traceability to their finished product when I had no formal SQL or Database training. I found fulfillment in Data Analytics and it brought purpose to where I was once feeling a lack of job satisfaction before.  From this moment on, I knew I wanted to dedicate the rest of my life to Computer Science.  
