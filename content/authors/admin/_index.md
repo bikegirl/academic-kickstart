@@ -22,7 +22,7 @@ bio: My research interests include NLP, Persuasive Content-Messaging and A.I. in
 
 interests:
 - Persuasive Content Messaging
-- Natural Language Processing
+- Narrative Shemas (Event Extraction)
 - Artificial Intelligence in Mental Health and Wellness
 
 education:
