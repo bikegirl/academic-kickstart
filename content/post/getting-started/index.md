@@ -38,7 +38,7 @@ gallery_item:
 - album: gallery
   caption: Grandma working in the fields
   image: grandma_fields.jpg
-- album: gallery
+<!-- - album: gallery
   caption: My Indian Grandma (Aztec)
   image: aztec_grandma.jpg
 - album: gallery
@@ -73,7 +73,7 @@ gallery_item:
   image: reno_becca.JPG
 - album: gallery
   caption: My Phd lab mates visit Texas.  I had to take them to good Mexican food.
-  image: san_antonio_tx.jpg
+  image: san_antonio_tx.jpg -->
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
