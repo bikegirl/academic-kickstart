@@ -36,7 +36,7 @@ gallery_item:
   caption: Migrant-Work-in-Michigan
   image: pepinofields.jpg
 - album: gallery
-  caption: Grandma-Flores-working-in-the-fields
+  caption: Granda Flores working in the Fields.
   image: grandma_fields.jpg
 ---
 
