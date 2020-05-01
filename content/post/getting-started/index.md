@@ -56,6 +56,9 @@ gallery_item:
 - album: gallery
   caption: Tamales with Granda Iglesias
   image: Tamales.jpg
+- album: gallery
+  caption: Matamoros, Tamaulipas in Mexico
+  image: matamoros.jpg
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
