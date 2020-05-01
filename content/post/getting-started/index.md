@@ -33,8 +33,8 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: Default
-  image: theme-default.png
+  caption: PepinoFields
+  image: pepinofields.jpg
 - album: gallery
   caption: Ocean
   image: theme-ocean.png
