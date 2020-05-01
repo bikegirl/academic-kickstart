@@ -59,6 +59,21 @@ gallery_item:
 - album: gallery
   caption: Matamoros, Tamaulipas in Mexico
   image: matamoros.jpg
+- album: gallery
+  caption: First July 4th with my PhD lab mates 2018
+  image: July4th.jpg
+- album: gallery
+  caption: First July 4th with my PhD lab mates 2018
+  image: July4thFireworks.jpg
+- album: gallery
+  caption: First Thanksgiving with my NLP PhD family
+  image: first_thanksgiving.jpeg
+- album: gallery
+  caption: My PhD lab mate Reno comes to San Antonio, TX (My neck of the woods!)
+  image: reno_becca.JPG
+- album: gallery
+  caption: My Phd lab mates visit Texas.  I had to take them to good Mexican food.
+  image: san_antonio_tx.jpg
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
