@@ -33,11 +33,14 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: Migrant-Work-in-Michigan
+  caption: When we first came to the United States.  Migrant work in Michigan, picking pepinos.
   image: pepinofields.jpg
 - album: gallery
   caption: Granda Flores working in the Fields.
   image: grandma_fields.jpg
+- album: gallery
+  caption: My Indian Grandma (Aztec)
+  image: aztec_grandma.jpg
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
