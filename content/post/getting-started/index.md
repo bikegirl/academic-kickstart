@@ -33,29 +33,47 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: PepinoFields
+  caption: Migrant Work in Michigan.  When we first came to the United States: me and my mom.
   image: pepinofields.jpg
 - album: gallery
-  caption: Ocean
-  image: theme-ocean.png
+  caption: Grandma working in the fields
+  image: grandma_fields.jpg
 - album: gallery
-  caption: Forest
-  image: theme-forest.png
+  caption: My Indian Grandma (Aztec)
+  image: aztec_grandma.jpg
 - album: gallery
-  caption: Dark
-  image: theme-dark.png
+  caption: Hanging out with my Dad
+  image: wirehanger.jpg
 - album: gallery
-  caption: Apogee
-  image: theme-apogee.png
+  caption: Hanging out with my Mom and Dad
+  image: curtaincouchwithmom.jpg
 - album: gallery
-  caption: 1950s
-  image: theme-1950s.png
+  caption: Baby Portrait at my Grandma Iglesias' House
+  image: babypicture.jpg
 - album: gallery
-  caption: Coffee theme with Playfair font
-  image: theme-coffee-playfair.png
+  caption: Park with my brother Leo
+  image: Bahia.jpg
 - album: gallery
-  caption: Strawberry
-  image: theme-strawberry.png
+  caption: Tamales with Granda Iglesias
+  image: Tamales.jpg
+- album: gallery
+  caption: Matamoros, Tamaulipas in Mexico
+  image: matamoros.jpg
+- album: gallery
+  caption: First July 4th with my PhD lab mates 2018
+  image: July4th.jpg
+- album: gallery
+  caption: First July 4th with my PhD lab mates 2018
+  image: July4thFireworks.jpg
+- album: gallery
+  caption: First Thanksgiving with my NLP PhD family
+  image: first_thanksgiving.jpeg
+- album: gallery
+  caption: My PhD lab mate Reno comes to San Antonio, TX (My neck of the woods!)
+  image: reno_becca.JPG
+- album: gallery
+  caption: My Phd lab mates visit Texas.  I had to take them to good Mexican food.
+  image: san_antonio_tx.jpg
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
