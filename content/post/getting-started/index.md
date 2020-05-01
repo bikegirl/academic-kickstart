@@ -33,10 +33,10 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: Migrant Work in Michigan.  When we first came to the United States: me and my mom.
+  caption: Migrant-Work-in-Michigan
   image: pepinofields.jpg
 - album: gallery
-  caption: Grandma working in the fields
+  caption: Grandma-Flores-working-in-the-fields
   image: grandma_fields.jpg
 <!-- - album: gallery
   caption: My Indian Grandma (Aztec)
