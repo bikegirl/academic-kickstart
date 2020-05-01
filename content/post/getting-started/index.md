@@ -41,6 +41,9 @@ gallery_item:
 - album: gallery
   caption: My Indian Grandma (Aztec)
   image: aztec_grandma.jpg
+- album: gallery
+  caption: Hanging out with my Dad
+  image: wirehanger.jpg
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
