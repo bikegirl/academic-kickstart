@@ -44,6 +44,18 @@ gallery_item:
 - album: gallery
   caption: Hanging out with my Dad
   image: wirehanger.jpg
+- album: gallery
+  caption: Hanging out with my Mom and Dad
+  image: curtaincouchwithmom.jpg
+- album: gallery
+  caption: Baby Portrait at my Grandma Iglesias' House
+  image: babypicture.jpg
+- album: gallery
+  caption: Park with my brother Leo
+  image: Bahia.jpg
+- album: gallery
+  caption: Tamales with Granda Iglesias
+  image: Tamales.jpg
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
