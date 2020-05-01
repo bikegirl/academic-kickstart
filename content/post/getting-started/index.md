@@ -33,47 +33,29 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: Migrant Work in Michigan.  When we first came to the United States: me and my mom.
-  image: pepinofields.png
+  caption: Default
+  image: theme-default.png
 - album: gallery
-  caption: Grandma working in the fields
-  image: grandma_fields.png
+  caption: Ocean
+  image: theme-ocean.png
 - album: gallery
-  caption: My Indian Grandma (Aztec)
-  image: aztec_graphma.png
+  caption: Forest
+  image: theme-forest.png
 - album: gallery
-  caption: Hanging out with my Dad
-  image: wirehanger.png
+  caption: Dark
+  image: theme-dark.png
 - album: gallery
-  caption: Hanging out with my Mom and Dad
-  image: curtaincouchwithmom.png
+  caption: Apogee
+  image: theme-apogee.png
 - album: gallery
-  caption: Baby Portrait at my Grandma Iglesias' House
-  image: babypicture.png
+  caption: 1950s
+  image: theme-1950s.png
 - album: gallery
-  caption: Park with my brother Leo
-  image: bahia.png
+  caption: Coffee theme with Playfair font
+  image: theme-coffee-playfair.png
 - album: gallery
-  caption: Tamales with Granda Iglesias
-  image: Tamales.png
-- album: gallery
-  caption: Matamoros, Tamaulipas in Mexico
-  image: matamoros.png
-- album: gallery
-  caption: First July 4th with my PhD lab mates 2018
-  image: July4th.png
-- album: gallery
-  caption: First July 4th with my PhD lab mates 2018
-  image: July4thFireworks.png
-- album: gallery
-  caption: First Thanksgiving with my NLP PhD family
-  image: first_thanksgiving.png
-- album: gallery
-  caption: My PhD lab mate Reno comes to San Antonio, TX (My neck of the woods!)
-  image: reno_becca.png
-- album: gallery
-  caption: My Phd lab mates visit Texas.  I had to take them to good Mexican food.
-  image: san_antonio.png
+  caption: Strawberry
+  image: theme-strawberry.png
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
