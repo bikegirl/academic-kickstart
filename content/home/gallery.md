@@ -47,5 +47,3 @@ gallery_item:
   caption: My Phd lab mates visit Texas.  I had to take them out to get some good Mexican food.
   image: san_antonio_tx.jpg
 ---
-
-{{< gallery >}}
