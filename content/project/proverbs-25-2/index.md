@@ -1,6 +1,6 @@
 ---
 title: Proverbs 25:2
-summary: It's about the chase...
+summary: It's about the chase... `external_link`.
 tags: Proverbs
 - Demo
 date: "2019-05-02T00:00:00Z"
@@ -8,9 +8,9 @@ date: "2019-05-02T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.bible.com/
 
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+# image:
+#   caption: Photo by Toa Heftiba on Unsplash
+#   focal_point: Smart
 ---
 
 "It is the glory of God to conceal a matter; to search out a matter is the glory of kings."
