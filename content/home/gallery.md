@@ -38,13 +38,13 @@ gallery_item:
   caption: 2018 Celebrating July 4th for the very first time in Philadelphia with Sven, Daniel, Tien, and Joao!!!  
   image: July4thFireworks.jpg
 - album: gallery
-  caption: First Thanksgiving with my NLP PhD family
+  caption: Having Thanksgiving dinner at my Advisor's house with my NLP family!
   image: first_thanksgiving.jpeg
 - album: gallery
-  caption: My PhD lab mate Reno comes to San Antonio, TX (My neck of the woods!)
+  caption: THIS IS NOT A WIG! haha.  My hair was really that pink!  My PhD lab mate Reno comes to San Antonio, TX (My neck of the woods)
   image: reno_becca.JPG
 - album: gallery
-  caption: My Phd lab mates visit Texas.  I had to take them to good Mexican food.
+  caption: My Phd lab mates visit Texas.  I had to take them out to get some good Mexican food.
   image: san_antonio_tx.jpg
 ---
 
