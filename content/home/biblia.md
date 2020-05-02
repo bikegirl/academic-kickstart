@@ -12,6 +12,8 @@ subtitle = "Inspiring versus from The Bible"
 	view = 2
 +++
 
+It is the glory of God to conceal a matter; to search out a matter is the glory of kings. Proverbs 25:2
+
 “You are my witnesses,” declares the Lord, “and my servant whom I have chosen,
 so that you may know and believe me and understand that I am he.
 Before me no god was formed, nor will there be one after me. Isaiah 43:10
@@ -42,8 +44,6 @@ They will soar on wings like eagles;
 they will run and not grow weary,
 they will walk and not be faint. Isaiah 40:28-31
 
-It is the glory of God to conceal a matter; to search out a matter is the glory of kings. Proverbs 25:2
-
 The story of the writing on the wall...
 You praised the gods of silver and gold, of bronze, iron, wood and stone, which cannot see or hear or understand. But you did not honor the God who holds in his hand your life and all your ways. Therefore he sent the hand that wrote the inscription.
 “This is the inscription that was written:
@@ -57,3 +57,7 @@ This is so that you know the Most High God is sovereign over all kingdoms on ear
 Psalm 14:1 The fool says in his heart, "There is no God."
 
 I am with you and will watch over you wherever you go, and I will bring you back to this land. I will not leave you until I have done what I have promised you.” Genesis 28:15
+
+if my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land. 2 Chronicles 7:14
+
+And He made from one man every nation of mankind to live on the face of the earth, having determined their appointed times and the boundaries of their lands and territories. This was so that they would seek God, if perhaps they might grasp for Him and find Him, though He is not far from each one of us. For in Him we live and move and exist [that is, in Him we actually have our being], as even some of your own poets have said, ‘For we also are His children.’ So then, being God’s children, we should not think that the Divine Nature (deity) is like gold or silver or stone, an image formed by the art and imagination or skill of man. Therefore God overlooked and disregarded the former ages of ignorance; but now He commands all people everywhere to repent [that is, to change their old way of thinking, to regret their past sins, and to seek God’s purpose for their lives], because He has set a day when He will judge the inhabited world in righteousness by a Man whom He has appointed and destined for that task [Jesus], and He has provided credible proof to everyone by raising Him from the dead.” Acts 17:31
