@@ -8,8 +8,10 @@ weight = 60  # Order that this section will appear.
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "3"
 
 +++
 
-{{< gallery >}}
+{{< figure library="true" src="pepinofields.jpg" title="When we first came to the United States.  Migrant work in Michigan, picking pepinos." lightbox="true" >}}
+{{< figure library="true" src="grandma_fields.jpg" title="Granda Flores working in the Fields." lightbox="true" >}}
+{{< figure library="true" src="aztec_grandma.jpg" title="My Indian Grandma (Aztec)" lightbox="true" >}}
