@@ -2,7 +2,7 @@
 title: Daniel 5:18-28
 summary: The story of the writing on the wall... `external_link`.
 tags:
-- Demo
+- Daniel
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
