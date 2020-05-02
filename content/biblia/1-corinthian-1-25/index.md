@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by https://www.drrobertsilverman.com/wp-content/uploads/2018/06/strength.jpeg
+  caption: 
   focal_point: Smart
+
+# Photo by https://www.drrobertsilverman.com/wp-content/uploads/2018/06/strength.jpeg
 
 links:
 - icon: bible
