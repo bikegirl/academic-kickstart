@@ -1,16 +1,33 @@
 ---
 title: Daniel 5:18-28
-summary: The story of the writing on the wall... `external_link`.
+summary: The story of the writing on the wall...
 tags:
 - Daniel
-date: "2016-04-27T00:00:00Z"
+date: "2016-05-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.bible.com/bible/111/DAN.5.NIV
+external_link: ""
 
 image:
   caption: Photo by https://i.ytimg.com/vi/9pzQmy5MTos/hqdefault.jpg
   focal_point: Smart
+
+links:
+- icon: bible
+  icon_pack: fab
+  name: Follow
+  url: https://www.bible.com/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 ---
 
 The story of the writing on the wall...
