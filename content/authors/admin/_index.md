@@ -38,7 +38,7 @@ education:
     year: 2010
   - course: AS in Computer Science
     institution: Austin Community College
-  - course: AA in Spanish Foreign Language and Literature
+  - course: AA in Spanish 
     institution: Austin Community College
 
 # Social/Academic Networking
