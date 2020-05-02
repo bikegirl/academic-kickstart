@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by https://www.theladders.com/wp-content/uploads/journey-road-190730-800x450.jpg
+  caption: 
   focal_point: Smart
+
+# Photo by https://www.theladders.com/wp-content/uploads/journey-road-190730-800x450.jpg
 
 links:
 - icon: twitter

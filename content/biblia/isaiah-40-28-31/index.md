@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: https://lh3.googleusercontent.com/proxy/6tO6xhD4GYU7sT3a6_ZSRSlSZ0NRKLglcS_se_31K34Cbrcs3W8Q9h8CEN0eF8iGwv_nM6Lkg_0PfvvCPbhzsAJBR1IJyujDeNwdH3On7y6-H7BNqcy6N6CB6CbaS5xIyyfTLciZVqxcZFwjZhq7nPttgV7L
+  caption: 
   focal_point: Smart
+
+# https://lh3.googleusercontent.com/proxy/6tO6xhD4GYU7sT3a6_ZSRSlSZ0NRKLglcS_se_31K34Cbrcs3W8Q9h8CEN0eF8iGwv_nM6Lkg_0PfvvCPbhzsAJBR1IJyujDeNwdH3On7y6-H7BNqcy6N6CB6CbaS5xIyyfTLciZVqxcZFwjZhq7nPttgV7L
 
 links:
 - icon: bible

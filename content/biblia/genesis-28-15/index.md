@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by https://media.swncdn.com/cms/IB/53725-ryan-cheng-desert-walk-unsplash-1200.1200w.tn.jpg
+  caption: 
   focal_point: Smart
+
+# Photo by https://media.swncdn.com/cms/IB/53725-ryan-cheng-desert-walk-unsplash-1200.1200w.tn.jpg
 
 links:
 - icon: twitter

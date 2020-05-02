@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by https://i.ytimg.com/vi/9pzQmy5MTos/hqdefault.jpg
+  caption: 
   focal_point: Smart
+
+# Photo by https://i.ytimg.com/vi/9pzQmy5MTos/hqdefault.jpg
 
 links:
 - icon: bible

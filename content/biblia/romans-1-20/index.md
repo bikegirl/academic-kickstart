@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by https://blog.crystaltravel.co.uk/wp-content/uploads/2018/02/KAWASAN-FALLS.jpg
+  caption: 
   focal_point: Smart
+
+# Photo by https://blog.crystaltravel.co.uk/wp-content/uploads/2018/02/KAWASAN-FALLS.jpg
 
 links:
 - icon: bible

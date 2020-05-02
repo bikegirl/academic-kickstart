@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by https://9auileboys-flywheel.netdna-ssl.com/wp-content/uploads/2017/09/SYATP-students-at-flag-pole-2014-735x400.jpg
+  caption: 
   focal_point: Smart
+
+# Photo by https://9auileboys-flywheel.netdna-ssl.com/wp-content/uploads/2017/09/SYATP-students-at-flag-pole-2014-735x400.jpg
 
 links:
 - icon: twitter

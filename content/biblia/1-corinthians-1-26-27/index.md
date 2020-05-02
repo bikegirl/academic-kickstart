@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by https://www.fordignity1.org/wp-content/uploads/2016/03/jesuswrite.jpg
+  caption: 
   focal_point: Smart
+
+# Photo by https://www.fordignity1.org/wp-content/uploads/2016/03/jesuswrite.jpg
 
 links:
 - icon: twitter

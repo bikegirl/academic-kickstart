@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: https://i.pinimg.com/originals/9b/65/1c/9b651cc33e1d06ae87dec339754ead6c.jpg
+  caption: 
   focal_point: Smart
+
+# Photo by https://i.pinimg.com/originals/9b/65/1c/9b651cc33e1d06ae87dec339754ead6c.jpg
 
 links:
 - icon: twitter

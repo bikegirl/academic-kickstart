@@ -9,8 +9,10 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by https://scripturetruthblog.files.wordpress.com/2018/02/dove-2901815_1920.jpg?w=1920&h=1005&crop=1
+  caption: 
   focal_point: Smart
+
+# Photo by https://scripturetruthblog.files.wordpress.com/2018/02/dove-2901815_1920.jpg?w=1920&h=1005&crop=1
 
 links:
 - icon: twitter
