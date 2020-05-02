@@ -6,7 +6,7 @@ weight = 80  # Order that this section will appear.
 
 # ... Put Your Section Options Here (title etc.) ...
 title = "Gallery"
-view = 2
+#view = 2
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
