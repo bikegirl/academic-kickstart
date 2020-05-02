@@ -2,14 +2,14 @@
 title: Acts 17:26-31
 summary: He is not far from each one of us....
 tags:
-- Proverbs
+- Acts
 date: "2016-05-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by https://www.theladders.com/wp-content/uploads/journey-road-190730-800x450.jpg
+  caption: Photo by https://scripturetruthblog.files.wordpress.com/2018/02/dove-2901815_1920.jpg?w=1920&h=1005&crop=1
   focal_point: Smart
 
 links:
