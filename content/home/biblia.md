@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Biblia"
@@ -26,16 +26,36 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Isaiah"
+    tag = "Isaiah"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Romans"
+    tag = "Romans"
 
   [[content.filter_button]]
     name = "Proverbs"
     tag = "Proverbs"
+
+  [[content.filter_button]]
+    name = "Acts"
+    tag = "Acts"
+
+  [[content.filter_button]]
+    name = "Genesis"
+    tag = "Genesis"
+
+  [[content.filter_button]]
+    name = "Daniel"
+    tag = "Daniel"
+
+  [[content.filter_button]]
+    name = "Chronicles"
+    tag = "Chronicles"
+
+  [[content.filter_button]]
+    name = "Corinthians"
+    tag = "Corinthians"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
