@@ -1,20 +1,21 @@
 ---
 title: 'Gallery'
-subtitle: 'Family memories and recent photos :rocket:'
+subtitle: 'Family memories and recent photos'
 
+# :rocket:
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: When we first came to the United States.  Migrant work in Michigan, picking pepinos.
+  caption: When we first came to the United States.  Migrant work in Michigan, me and my mom picking pepinos.
   image: pepinofields.jpg
 - album: gallery
-  caption: Granda Flores working in the Fields.
+  caption: Mi Abuelita Maria del Carmen Flores working in the fields.
   image: grandma_fields.jpg
 - album: gallery
-  caption: My Indian Grandma (Aztec)
+  caption: Mi Bisabuela Azteca, My Aztec Great Grandmother
   image: aztec_grandma.jpg
 - album: gallery
-  caption: Hanging out with my Dad
+  caption: Chillin' with out Dad.
   image: wirehanger.jpg
 - album: gallery
   caption: Hanging out with my Mom and Dad
@@ -23,7 +24,7 @@ gallery_item:
   caption: Baby Portrait at my Grandma Iglesias' House
   image: babypicture.jpg
 - album: gallery
-  caption: Park with my brother Leo
+  caption: In the Bahia Barrios with my Brother where we grew up.  Playing in the park.
   image: Bahia.jpg
 - album: gallery
   caption: Tamales with Granda Iglesias
@@ -32,19 +33,19 @@ gallery_item:
   caption: Matamoros, Tamaulipas in Mexico
   image: matamoros.jpg
 - album: gallery
-  caption: First July 4th with my PhD lab mates 2018
+  caption: My very 1st-July 4th in Philadelphia!  My PhD NLP lab mates: Sven, Daniel, Becca, Tien, and Joao. 2018
   image: July4th.jpg
 - album: gallery
-  caption: First July 4th with my PhD lab mates 2018
+  caption: Celebrating July 4th for the very first time in Philadelphia! 2018
   image: July4thFireworks.jpg
 - album: gallery
-  caption: First Thanksgiving with my NLP PhD family
+  caption: My very first Thanksgiving in Philadelphia at my Advisor's house and my NLP family. 2018
   image: first_thanksgiving.jpeg
 - album: gallery
-  caption: My PhD lab mate Reno comes to San Antonio, TX (My neck of the woods!)
+  caption: This is not a wig! Pink hair is real haha.  My PhD lab mate Reno comes to San Antonio, TX (in my neck of the woods!)
   image: reno_becca.JPG
 - album: gallery
-  caption: My Phd lab mates visit Texas.  I had to take them to good Mexican food.
+  caption: My Phd lab mates visit Texas!!!  I had to take them out to get some good Mexican food!!!
   image: san_antonio_tx.jpg
 ---
 
