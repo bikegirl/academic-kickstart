@@ -12,4 +12,4 @@ weight = 60  # Order that this section will appear.
 
 +++
 
-This is a test
+{{< gallery >}}
