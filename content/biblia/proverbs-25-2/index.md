@@ -1,6 +1,6 @@
 ---
 title: Proverbs 25:2
-summary: "It is the glory of God to conceal...
+summary: It is the glory of God to conceal...
 tags:
 - Proverbs
 date: "2016-05-02T00:00:00Z"
