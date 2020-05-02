@@ -18,7 +18,7 @@ organizations:
   url: "https://www.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP, Persuasive Content-Messaging and A.I. in Mental Health.
+bio: My research interests include Narrative Event Schemas, Personality Profiling, Persuasive Content-Messaging, and A.I. in Mental Health.
 
 interests:
 - Persuasive Content Messaging
@@ -45,6 +45,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -62,9 +63,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-&emsp;&emsp;I am a 2nd-year CS PhD Student studying Natural Language Processing at the [University of Pennsylvania](https://www.seas.upenn.edu/).
+&emsp;&emsp;I am a 3rd-year CS PhD Student studying Natural Language Processing at the [University of Pennsylvania](https://www.seas.upenn.edu/).
 
 &emsp;&emsp;I am so very proud to have [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) as my PhD advisor and [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) as my collaborator advisor from the school of Annenberg for Communication.  I would like to take a brief moment to acknowledge my mentors and letter writers: [Dr. Benjamin Martin](https://www.txstate.edu/chemistry/people/faculty-alpha/martin.html) from [Texas State University](https://www.txstate.edu/) in San Marcos, TX and [Dr. Robin L. Garrell](https://www.chemistry.ucla.edu/directory/garrell-robin-l) from [University of California at Los Angeles](http://www.ucla.edu/).  Without their dedication and support, my path to graduate school would not have been possible.  I am also an [NSF GRFP Fellow](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList) and could not have had this 2nd-lease on life without the financial resources and support of the [National Science Foundation](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=6201&ods_key=nsf18573).  Daughter to Mexican immigrants of indigenous-Aztec descent, I am a 1st-generation U.S. Citizen, the first in my family to be attending University, and the first woman to be educated in our family in over 4 generations (that we have record for).  Before joining Penn, I grew up and finished school in Austin, TX with a BSc. in Chemistry and worked in the private sector for 7 years (KEEP AUSTIN WEIRD!!!).
 
