@@ -28,10 +28,10 @@
   url = "#featured"
   weight = 50
 
-# [[main]]
-#   name = "Gallery"
-#   url = "#gallery"
-#   weight = 60
+[[main]]
+  name = "Gallery"
+  url = "#gallery"
+  weight = 60
 
 [[main]]
   name = "Contact"
