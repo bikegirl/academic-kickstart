@@ -5,19 +5,19 @@ subtitle: 'Family memories and recent photos'
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: When we first came to the United States.  Migrant work in Michigan, picking pepinos.
+  caption: When we first came to the United States.  Migrant work in Michigan, me and my mom picking pepinos.
   image: pepinofields.jpg
 - album: gallery
-  caption: Granda Flores working in the Fields.
+  caption: Mi Abuelita Maria del Carmen Flores working in the Fields.
   image: grandma_fields.jpg
 - album: gallery
-  caption: My Indian Grandma (Aztec)
+  caption: Mi Bisabuela Azteca
   image: aztec_grandma.jpg
 - album: gallery
-  caption: Hanging out with my Dad
+  caption: Hanging out with my Dad.
   image: wirehanger.jpg
 - album: gallery
-  caption: Hanging out with my Mom and Dad
+  caption: Hanging out with my Mom and Dad.
   image: curtaincouchwithmom.jpg
 - album: gallery
   caption: Baby Portrait at my Grandma Iglesias' House
@@ -26,7 +26,7 @@ gallery_item:
   caption: Park with my brother Leo
   image: Bahia.jpg
 - album: gallery
-  caption: Tamales with Granda Iglesias
+  caption: Tamales con mi Abuelita Iglesias
   image: Tamales.jpg
 - album: gallery
   caption: Matamoros, Tamaulipas in Mexico
