@@ -1,6 +1,6 @@
 ---
 title: Proverbs 25:2
-summary: "It's about the chase..."
+summary: It's about the chase...
 tags: Proverbs
 - Demo
 date: "2019-05-02T00:00:00Z"
