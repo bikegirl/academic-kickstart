@@ -32,10 +32,10 @@ gallery_item:
   caption: Matamoros, Tamaulipas in Mexico
   image: matamoros.jpg
 - album: gallery
-  caption: First July 4th with my PhD lab mates 2018
+  caption: My very first July 4th in Philadelphia!!!  2018
   image: July4th.jpg
 - album: gallery
-  caption: First July 4th with my PhD lab mates 2018
+  caption: 2018 Celebrating July 4th for the very first time in Philadelphia with Sven, Daniel, Tien, and Joao!!!  
   image: July4thFireworks.jpg
 - album: gallery
   caption: First Thanksgiving with my NLP PhD family
