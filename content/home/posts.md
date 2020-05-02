@@ -65,5 +65,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{{< gallery album="<gallery>" >}}
