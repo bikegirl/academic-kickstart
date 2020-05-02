@@ -33,13 +33,13 @@ gallery_item:
   caption: Matamoros, Tamaulipas in Mexico
   image: matamoros.jpg
 - album: gallery
-  caption: My very 1st-July 4th in Philadelphia!  My PhD NLP lab mates: Sven, Daniel, Becca, Tien, and Joao. 2018
+  caption: My very first July 4th in Philadelphia 2018!  My PhD NLP lab mates: Sven, Daniel, Becca, Tien, and Joao.
   image: July4th.jpg
 - album: gallery
-  caption: Celebrating July 4th for the very first time in Philadelphia! 2018
+  caption: Celebrating July 4th for the very first time in Philadelphia 2018!
   image: July4thFireworks.jpg
 - album: gallery
-  caption: My very first Thanksgiving in Philadelphia at my Advisor's house and my NLP family. 2018
+  caption: My very 1st Thanksgiving 2018 in Philadelphia with my NLP family at my Advisor's house.
   image: first_thanksgiving.jpeg
 - album: gallery
   caption: This is not a wig! Pink hair is real haha.  My PhD lab mate Reno comes to San Antonio, TX (in my neck of the woods!)
