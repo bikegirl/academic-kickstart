@@ -9,7 +9,7 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: https://www.theladders.com/wp-content/uploads/journey-road-190730-800x450.jpg
+  caption: Photo by https://www.theladders.com/wp-content/uploads/journey-road-190730-800x450.jpg
   focal_point: Smart
 
 links:

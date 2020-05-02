@@ -9,7 +9,7 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: https://blog.crystaltravel.co.uk/wp-content/uploads/2018/02/KAWASAN-FALLS.jpg
+  caption: Photo by https://blog.crystaltravel.co.uk/wp-content/uploads/2018/02/KAWASAN-FALLS.jpg
   focal_point: Smart
 
 links:

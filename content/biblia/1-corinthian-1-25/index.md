@@ -9,7 +9,7 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: https://www.drrobertsilverman.com/wp-content/uploads/2018/06/strength.jpeg
+  caption: Photo by https://www.drrobertsilverman.com/wp-content/uploads/2018/06/strength.jpeg
   focal_point: Smart
 
 links:

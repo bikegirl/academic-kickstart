@@ -9,7 +9,7 @@ date: "2016-05-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: https://previews.123rf.com/images/prazis/prazis1705/prazis170500059/79081271-beautiful-evening-sunset-with-clouds-and-sun-rays.jpg
+  caption: Photo by https://previews.123rf.com/images/prazis/prazis1705/prazis170500059/79081271-beautiful-evening-sunset-with-clouds-and-sun-rays.jpg
   focal_point: Smart
 
 links:
