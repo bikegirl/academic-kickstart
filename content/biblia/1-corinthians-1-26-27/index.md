@@ -2,7 +2,7 @@
 title: 1 Corinthians 1:26-27
 summary: God has selected the insignificant (base) things of the world...
 tags:
-- Proverbs
+- Corinthians
 date: "2016-05-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
