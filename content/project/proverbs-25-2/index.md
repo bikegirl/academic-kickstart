@@ -1,8 +1,8 @@
 ---
 title: Proverbs 25:2
 summary: It's about the chase... `external_link`.
-tags: Proverbs
-- Demo
+tags: 
+- Proverbs
 date: "2019-05-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
