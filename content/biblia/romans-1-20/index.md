@@ -1,15 +1,15 @@
 ---
-title: 1 Corinthians 1:25
-summary: The foolishness of God is wiser than men,...
+title: Romans 1:20
+summary: For since the creation of the world God’s invisible qualities...
 tags:
-- Corinthians
+- Romans
 date: "2016-05-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: https://www.drrobertsilverman.com/wp-content/uploads/2018/06/strength.jpeg
+  caption: https://blog.crystaltravel.co.uk/wp-content/uploads/2018/02/KAWASAN-FALLS.jpg
   focal_point: Smart
 
 links:
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-"The foolishness of God is wiser than men, and God's weakness is still stronger than men."
+"For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.""
