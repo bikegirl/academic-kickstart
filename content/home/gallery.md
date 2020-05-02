@@ -48,4 +48,4 @@ gallery_item:
   image: san_antonio_tx.jpg
 ---
 
-{{< gallery >}} {{< load-photoswipe >}}
+{{< gallery >}}
