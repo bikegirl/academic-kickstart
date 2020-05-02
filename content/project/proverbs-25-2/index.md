@@ -1,6 +1,6 @@
 ---
 title: Proverbs 25:2
-summary: 
+# summary: 
 tags: Proverbs
 - Demo
 date: "2019-05-02T00:00:00Z"
