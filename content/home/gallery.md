@@ -10,4 +10,4 @@ active = true
   columns = "1"
 +++
 
-{{< gallery album="gallery" >}}
+{{< gallery >}}
