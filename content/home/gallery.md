@@ -73,8 +73,5 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ {{< gallery >}}
 +++
-
-{{< figure library="true" src="pepinofields.jpg" title="When we first came to the United States.  Migrant work in Michigan, picking pepinos." lightbox="true" >}}
-{{< figure library="true" src="grandma_fields.jpg" title="Mi Abuelita Flores working in the Fields." lightbox="true" >}}
-{{< figure library="true" src="aztec_grandma.jpg" title="Mi Abuelita Azteca, My Aztec Grandmother." lightbox="true" >}}
