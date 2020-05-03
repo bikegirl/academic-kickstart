@@ -37,4 +37,5 @@ The story of when Jesus drew in the sand and protected a woman.  He challenged t
 "But God has selected [for His purpose] the foolish things of the world to shame the wise [revealing their ignorance], and God has selected [for His purpose] the weak things of the world to shame the things which are strong [revealing their frailty]. God has selected [for His purpose] the insignificant (base) things of the world, and the things that are despised and treated with contempt, [even] the things that are nothing, so that He might reduce to nothing the things that are, so that no one may [be able to] boast in the presence of God."
 
 [Full Chapter: 1 Corinthian 1](https://www.bible.com/bible/111/1CO.1.NIV)
+
 [Full Story: Jesus stands up for a woman caught in adultery](https://www.bible.com/bible/111/JHN.8.NIV) 

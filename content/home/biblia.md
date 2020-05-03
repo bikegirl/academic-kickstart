@@ -57,6 +57,14 @@ subtitle = ""
     name = "Corinthians"
     tag = "Corinthians"
 
+  [[content.filter_button]]
+    name = "Jeremiah"
+    tag = "Jeremiah"
+
+  [[content.filter_button]]
+    name = "Phillipians"
+    tag = "Phillipians"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
