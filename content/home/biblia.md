@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Biblia"
-subtitle = ""
+subtitle = "pasajes favoritos"
 
 [content]
   # Page type to display. E.g. project, widget_page.
