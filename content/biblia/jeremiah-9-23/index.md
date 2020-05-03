@@ -1,5 +1,5 @@
 ---
-title: Jeremian 9:23
+title: Jeremiah 9:23
 summary: Let not the wise man boast in his wisdom,...
 tags:
 - Jeremiah
