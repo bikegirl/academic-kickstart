@@ -33,9 +33,15 @@ slides: example
 ---
 
 "Remember the former things, those of long ago;
+
 I am God, and there is no other;
+
 I am God, and there is none like me.
+
 I make known the end from the beginning,
+
 from ancient times, what is still to come.
+
 I say, ‘My purpose will stand,
-and I will do all that I please."" 
+
+and I will do all that I please." 
