@@ -33,10 +33,8 @@ education:
     year: Anticipated May 2023
   - course: MS in Computer Science
     institution: University of Pennsylvania
-    year: May 2020
   - course: BS in Chemistry
     institution: Texas State University
-    year: 2010
   - course: AS in Computer Science
     institution: Austin Community College
   - course: AA in Spanish 
