@@ -33,10 +33,21 @@ slides: example
 ---
 
 The story of the writing on the wall...
-You praised the gods of silver and gold, of bronze, iron, wood and stone, which cannot see or hear or understand. But you did not honor the God who holds in his hand your life and all your ways. Therefore he sent the hand that wrote the inscription.
+
+You praised the gods of silver and gold, of bronze, iron, wood and stone, which cannot see or hear or understand. But you
+
+did not honor the God who holds in his hand your life and all your ways. Therefore he sent the hand that wrote the inscription.
+
+
 “This is the inscription that was written:
+
+
 MENE, MENE, TEKEL, PARSIN
+
+
 “Here is what these words mean:
+
+
 MENE: God has numbered the days of your reign and brought it to an end.
 TEKEL: You have been weighed on the scales and found wanting.
 PERES: Your kingdom is divided and given to the Medes and Persians.”
