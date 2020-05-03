@@ -10,6 +10,11 @@ subtitle = ""
 
 [design]
 	view = 2
+
+[[gallery_item]]
+  album = "gallery"
+  image = "aztec_grandma.jpg"
+  caption = "Mi Bisabuela Azteca, My Aztec Grandmother."
 +++
 
 {{< gallery >}}
