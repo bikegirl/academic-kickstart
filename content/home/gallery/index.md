@@ -31,6 +31,18 @@ subtitle = ""
   album = "gallery"
   image = "curtaincouchwithmom.jpg"
   caption = "Hanging out with my Mom and Dad."
+[[gallery_item]]
+  album = "gallery"
+  image = "babypicture.jpg"
+  caption = "Baby Portrait at my Grandma Iglesias' House."
+[[gallery_item]]
+  album = "gallery"
+  image = "curtaincouchwithmom.jpg"
+  caption = "In the Barrios of Bahia where I grew up.  Playing in the park with my brother Leo."
+[[gallery_item]]
+  album = "gallery"
+  image = "Bahia.jpg"
+  caption = "Hanging out with my Mom and Dad."
 
 
 +++
