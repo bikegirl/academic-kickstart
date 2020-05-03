@@ -19,6 +19,20 @@ subtitle = ""
   album = "gallery"
   image = "pepinofields.jpg"
   caption = "When we first came to the United States.  Migrant work in Michigan, me and my mom picking pepinos."
+[[gallery_item]]
+  album = "gallery"
+  image = "grandma_fields.jpg"
+  caption = "Mi Abuelita Maria Del Carmen Flores working in the Fields."
+[[gallery_item]]
+  album = "gallery"
+  image = "wirehanger.jpg"
+  caption = "Hanging out with my Dad.  My hair stood straight up as a baby."
+[[gallery_item]]
+  album = "gallery"
+  image = "curtaincouchwithmom.jpg"
+  caption = "Hanging out with my Mom and Dad."
+
+
 +++
 
 {{< gallery >}}
