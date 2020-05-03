@@ -15,6 +15,9 @@ subtitle = ""
   album = "gallery"
   image = "aztec_grandma.jpg"
   caption = "Mi Bisabuela Azteca, My Aztec Grandmother."
+  album: "gallery"
+  caption: "When we first came to the United States.  Migrant work in Michigan, me and my mom picking pepinos."
+  image: "pepinofields.jpg"
 +++
 
 {{< gallery >}}
