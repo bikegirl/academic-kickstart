@@ -32,4 +32,5 @@ url_video: ""
 slides: example
 ---
 
-"The foolishness of God is wiser than men, and God's weakness is still stronger than men."
+"The foolishness of God is wiser than men, 
+and the weakness of God is stronger than men."
