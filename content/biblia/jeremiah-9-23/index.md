@@ -2,7 +2,7 @@
 title: Jeremian 9:23
 summary: Let not the wise man boast in his wisdom,...
 tags:
-- Corinthians
+- Jeremiah
 date: "2016-05-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,6 +1,6 @@
 ---
 title: 1 Corinthians 1:31
-summary: God has selected the insignificant (base) things of the world...
+summary: Therefore, if anyone should boast...
 tags:
 - Corinthians
 date: "2016-05-02T00:00:00Z"
