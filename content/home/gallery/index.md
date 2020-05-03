@@ -37,14 +37,36 @@ subtitle = ""
   caption = "Baby Portrait at my Grandma Iglesias' House."
 [[gallery_item]]
   album = "gallery"
-  image = "curtaincouchwithmom.jpg"
+  image = "Bahia.jpg"
   caption = "In the Barrios of Bahia where I grew up.  Playing in the park with my brother Leo."
 [[gallery_item]]
   album = "gallery"
-  image = "Bahia.jpg"
-  caption = "Hanging out with my Mom and Dad."
-
-
+  image = "Tamales.jpg"
+  caption = "Tamales with Granda Iglesias."
+[[gallery_item]]
+  album = "gallery"
+  image = "matamoros.jpg"
+  caption = "Matamoros, Tamaulipas in Mexico."
+[[gallery_item]]
+  album = "gallery"
+  image = "July4th.jpg"
+  caption = "Celebrating my very first July 4th in Philadelphia in 2018!!!"
+[[gallery_item]]
+  album = "gallery"
+  image = "July4thFireworks.jpg"
+  caption = "Spending my first July 4th in Philadelphia with my NLP family!!! Sven, Daniel, Tien, and Joao."
+[[gallery_item]]
+  album = "gallery"
+  image = "first_thanksgiving.jpeg"
+  caption = "My very first Thanksgiving in Philadelphia!  At my Advisor's house with my NLP family (-:"
+[[gallery_item]]
+  album = "gallery"
+  image = "reno_becca.JPG"
+  caption = "THIS IS NOT A WIG!!! Haha.  I really had pink hair last year lol.  My PhD labmate Reno comes to San Antonio, TX (My neck of the woods!)"
+  [[gallery_item]]
+  album = "gallery"
+  image = "san_antonio_tx.jpg"
+  caption = "My Phd labmates visit Texas!!!  I had to take them out to get some good Mexican food."
 +++
 
 {{< gallery >}}
