@@ -1,3 +1,37 @@
+---
+title: Phillipians 3:8-11
+summary: I count everything as loss compared to the priceless...
+tags:
+- Phillipians
+date: "2016-05-02T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: 
+  focal_point: Smart
+
+# Photo by https://d113wk4ga3f0l0.cloudfront.net/c?o=eJw1jsEOgyAQRH_FcLYIqG311i8xFlalghBYYpqm_15M253DZpKZl3mR6FKQMKzwJD1RVdO0lWC8Zo3oBM86V-y4yyBanjbUaEAVcXEObz5oU4hzWRyFE6cPP5PyD7wnuQJmpnSWGj0vGNHJlWo7zhBp8saNKlIfnEoStdty9Ttiaqep7rLdtcKF9NeOlWSBA_EzCNabESGH9_yCHcMKinHy_gBG3UI3&s=4b1a34f4b37776d3c1f005a7c3ecef4b4324be1e
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://www.bible.com/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
+
 "But whatever former things were gains to me [as I thought 
 
 then], these things [once regarded as advancements in merit] I 
