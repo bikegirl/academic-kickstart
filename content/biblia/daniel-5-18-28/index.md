@@ -46,9 +46,9 @@ MENE, MENE, TEKEL, PARSIN
 “Here is what these words mean:
 
 
-MENE: God has numbered the days of your reign and brought it to an end.
-TEKEL: You have been weighed on the scales and found wanting.
-PERES: Your kingdom is divided and given to the Medes and Persians.”
+- MENE: God has numbered the days of your reign and brought it to an end.
+- TEKEL: You have been weighed on the scales and found wanting.
+- PERES: Your kingdom is divided and given to the Medes and Persians.”
 
 This is so that you know the Most High God is sovereign over all kingdoms on earth and sets over them anyone he wishes. 
 
