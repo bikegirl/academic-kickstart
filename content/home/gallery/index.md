@@ -18,11 +18,11 @@ subtitle = ""
 [[gallery_item]]
   album = "gallery"
   image = "pepinofields.jpg"
-  caption = "When we first came to the United States.  Migrant work in Michigan, me and my mom picking pepinos."
+  caption = "When we first came to the lovely United States.  Migrant work in Michigan, me and my mom picking pepinos.  This is where the pursuit of happiness all began..."
 [[gallery_item]]
   album = "gallery"
   image = "grandma_fields.jpg"
-  caption = "Mi Abuelita Maria Del Carmen Flores working in the Fields."
+  caption = "When we first came to the lovely United States. Mi Abuelita Maria Del Carmen Flores working in the Fields."
 [[gallery_item]]
   album = "gallery"
   image = "wirehanger.jpg"
