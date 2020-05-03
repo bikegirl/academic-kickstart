@@ -50,11 +50,11 @@ subtitle = ""
 [[gallery_item]]
   album = "gallery"
   image = "July4th.jpg"
-  caption = "Celebrating my very first July 4th in Philadelphia in 2018!!!"
+  caption = "Celebrating my very first July 4th in Philadelphia in 2018!!! Sven, Daniel, Tien, and Joao."
 [[gallery_item]]
   album = "gallery"
   image = "July4thFireworks.jpg"
-  caption = "Spending my first July 4th in Philadelphia with my NLP family!!! Sven, Daniel, Tien, and Joao."
+  caption = "Spending my first July 4th in Philadelphia with my NLP family!!!"
 [[gallery_item]]
   album = "gallery"
   image = "first_thanksgiving.jpeg"
