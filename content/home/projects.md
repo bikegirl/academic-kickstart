@@ -34,8 +34,24 @@ subtitle = ""
     tag = "Demo"
 
   [[content.filter_button]]
-    name = "Proverbs"
-    tag = "Proverbs"
+    name = "Artificial Intelligence"
+    tag = "CIS 521"
+
+  [[content.filter_button]]
+    name = "Computational Linguistics"
+    tag = "CIS 530"
+
+  [[content.filter_button]]
+    name = "Interactive Fiction"
+    tag = "CIS 700-008"
+
+  [[content.filter_button]]
+    name = "Programming"
+    tag = "CIT 591"
+
+  [[content.filter_button]]
+    name = "Israel"
+    tag = "Israel"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
