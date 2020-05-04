@@ -1,15 +1,15 @@
 ---
-title: Oscar Martinez & Rebecca Iglesias-Flores New York Style Salsa On2
-summary: Social Dancing in Austin, TX at Go Dance
+title: West Coast Swing Improvisation to All-About-That-Base!!!
+summary: Improv dancing to Meghan Trainor's All About That Base...
 tags:
 - Extracurricular
-date: "2014-09-06T00:00:00Z"
+date: "2014-05-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: ""
+  caption: 
   focal_point: Smart
 
 links:
@@ -30,6 +30,7 @@ url_video: ""
 slides: example
 ---
 
-Deja Vu Salsa Sundays in Austin, TX at Go Dance Studio
 
-<iframe width="600" height="355" src="https://www.youtube.com/embed/hlEDi1ARiC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--Embed Youtube Video-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qRNH9Pwh0p8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

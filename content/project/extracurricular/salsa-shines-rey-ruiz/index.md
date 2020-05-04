@@ -1,15 +1,15 @@
 ---
-title: Oscar Martinez & Rebecca Iglesias-Flores New York Style Salsa On2
-summary: Social Dancing in Austin, TX at Go Dance
+title: Salsa Shines for Advanced Salsa Class!!!
+summary: Teaching Full-Time at Go Dance Studio in Austin, TX
 tags:
 - Extracurricular
-date: "2014-09-06T00:00:00Z"
+date: "2014-05-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: ""
+  caption: 
   focal_point: Smart
 
 links:
@@ -30,6 +30,7 @@ url_video: ""
 slides: example
 ---
 
-Deja Vu Salsa Sundays in Austin, TX at Go Dance Studio
 
-<iframe width="600" height="355" src="https://www.youtube.com/embed/hlEDi1ARiC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--Embed Youtube Video-->
+<iframe width="580" height="335" src="https://www.youtube.com/embed/B2Ke0jT4Xow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
