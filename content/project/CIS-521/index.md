@@ -1,15 +1,15 @@
 ---
-title: Capture the Flag
-summary: Intelligent Agents
+title: See R2D2 robots play Capture the Flag!!!
+summary: How-to-Build Intelligent Agents
 tags:
 - CIS 521
-date: "2016-04-27T00:00:00Z"
+date: "2016-05-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Professor Chris Callison-Burch dresses up like a squid for Halloween
   focal_point: Smart
 
 links:
@@ -30,7 +30,7 @@ url_video: ""
 slides: example
 ---
 
-Extra Credit Assignment 4 - CIS 521 Fall 2019
+Extra Credit Assignment 3 - CIS 521 Fall 2019
 
 We programed our r2s2 robots to play intelligently against each other!  Capture the Flag! May the best man win (or woman hehe)! Clearly my minimax and evaluation function is SUPERIORRRR.  
 

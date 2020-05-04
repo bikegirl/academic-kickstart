@@ -1,6 +1,6 @@
 ---
 title: COVID-19 This Year's DIY Passover Seder
-subtitle: This year's passover seder edition
+subtitle: brings a whole new meaning to social distancing
 summary: Celebrate passover amid social distancing
 authors:
 - admin
@@ -24,6 +24,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [israel]
 ---
+
+
+
+
 
 
 [Jewish Graduate Student Network](https://jewishgrads.org/)

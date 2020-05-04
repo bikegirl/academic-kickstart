@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include Narrative Event Schemas, Personality Profiling, Persuasive Content-Messaging, and A.I. in Mental Health.
 
 interests:
-- Narrative Event Schemas (Event Extraction)
+- Narrative Event Schemas
 - Personality Profiling
 - Persuasive Content Messaging
 - Artificial Intelligence in Mental Health and Wellness
