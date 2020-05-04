@@ -35,7 +35,7 @@ slides: example
 
 [CIS 700-008 Interactive Fiction and Text Generation](http://interactive-fiction-class.org/index.html)
 
-<img src="https://github.com/bikegirl/academic-kickstart/content/project/CIS-700-008/jurassic-university/shield-only-RGB-4k.png" align="left" width="60" hieght="60"> <img src="https://github.com/bikegirl/academic-kickstart/content/project/CIS-700-008/jurassic-university/icon.png" align="right" />
+<img src="../media/shield-only-RGB-4k.png" align="left" width="60" hieght="60"> <img src="media/icon.png" align="right" />
 
 # Introduction: Murder Mystery: Detective Text Adventure Game
 
