@@ -1,6 +1,6 @@
 ---
-title: Jurassic University!  My Custom Text Adventure Game!
-summary: Creating an imaginary world where Jurassic Park meets Penn Campus
+title: Check out Jurassic University!  Jurassic Park meets Penn Campus!
+summary: Creating an imaginary text adventure game for your enjoyment
 tags:
 - CIS 700-008
 date: "2016-05-04T00:00:00Z"
