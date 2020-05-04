@@ -24,29 +24,34 @@
   weight = 40
 
 [[main]]
+  name = "Projects"
+  url = "#project"
+  weight = 50
+
+[[main]]
   name = "Publications"
   url = "#featured"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Biblia"
   url = "#biblia"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Gallery"
   url = "#gallery"
-  weight = 80
+  weight = 90
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

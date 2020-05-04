@@ -13,8 +13,8 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
-  focal_point: ""
+  caption: Jewish Graduate Student Network Israel Fellows
+  focal_point: Smart
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
