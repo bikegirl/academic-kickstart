@@ -31,7 +31,9 @@ slides: example
 ---
 
 
-[Run My Murder Mystery Text Adventure Game](https://colab.research.google.com/github/bikegirl/IFaTG/blob/master/HW2/my_game_improved.ipynb) as part of the [CIS 700-008 Interactive Fiction and Text Generation](http://interactive-fiction-class.org/index.html) requirements taught by [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) and [Daphne Ipollito](https://www.seas.upenn.edu/~daphnei/)
+[Run Murder Mystery Text Adventure Game](https://colab.research.google.com/github/bikegirl/IFaTG/blob/master/HW2/my_game_improved.ipynb) 
+
+as part of the [CIS 700-008 Interactive Fiction and Text Generation](http://interactive-fiction-class.org/index.html) requirements taught by [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) and [Daphne Ippolito](https://www.seas.upenn.edu/~daphnei/)
 
 <img src="../media/shield-only-RGB-4k.png" align="left" width="100" hieght="100"> <img src="../media/icon.png" align="right" />
 
@@ -75,4 +77,4 @@ Your feet smell; I hate you!, which is demonstrated in our playthrough.txt.  Fee
 
 
 In case you need some hints on how to finish the game, don't forget to check out our play-by-play:
-[playthrough.txt]("playthrough.txt")
+[playthrough.txt]("../playthrough.txt")
