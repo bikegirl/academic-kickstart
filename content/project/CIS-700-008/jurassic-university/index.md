@@ -9,7 +9,7 @@ date: "2016-05-04T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Who-Dunnit?
+  caption: "You did it.  You crazy son of bitch, you did it!!!"
   focal_point: Smart
 
 links:
@@ -30,51 +30,39 @@ url_video: ""
 slides: example
 ---
 
+<img src="../media/shield-only-RGB-4k.png" align="left" width="120" hieght="120"> <img src="../media/icon.png" align="right" /> 
 
-<img src="../media/shield-only-RGB-4k.png" align="left" width="60" hieght="60"> 
-<img src="https://github.com/bikegirl/academic-kickstart/content/project/CIS-700-008/jurassic-university/icon.png" align="right" />
+# Jurassic University
+In the year 2085, climate change had taken a turn for the worse, and nearly all the animals have become extinct.  Penn campus became #1 world-wide in genetics research efforts to rebuild life. Using DNA they found preserved in tree sap (amber) they combined it with that of DNA in amphibians to fill in the gaps of the missing sequences.  What they thought their latest test batch was going to be (replenish the livestock), instead gave life to Jurassic period Dinosaurs in Philadelphia!!!  At the behest of the commander in chief, The U.S. Military Forces immediately mobilized, but austere animal activists and PETA ruled to keep the Dinosaurs alive (PETA is the ruling class of the New One World order at this time).  At first everything was under control, but then an EMP attack on United States 10 years later rendered all security gates useless.  The Dinosaurs escaped their pens, are running around loose on Penn Campus wreaking havoc, and eating all the delicious insomnia cookies for themselves!  Your job is to find out where the back-up generators are located (to turn them on manually) and then re-engage the security system in the NLP Grid, before the Dinosaurs figure out where the main exit gate is to the world.  Also, try not to get eaten!!!
 
+# Introduction
 
-
-
-
-# Introduction: Murder Mystery: Detective Text Adventure Game
-
-HW2 was a collaboration between Michael Shur and Rebecca Iglesias-Flores.  For part 2, we improved the parser inside action_castle.ipynb.  For part 3, it was a tough choice between between Mike's Detective custom game and Becca's Jurassic University custom game, but in the end we decided to go with Mike's Detective custom game.
-
-> `My custom text adventure game is a humorous murder mystery game. It takes place at my fictional version of UPenn and the characters in the game are myself, some classmates, some faculty. I essentially modeled it after the famous game, Clue. "Mr.Body", completely original name, has been killed! Your goal is to find out how he died  and tell the police so you can get back to studying! I chose this topic because out of all the ideas I had (zombie apocalypse, medieval times, etc.), I believe this one will capture and hold the attention of my target audience (i.e. students and faculty at UPenn) the most. As my high school English teacher once said, "What is everyone interested in? THEMSELVES of course!" :)`
-
-## Files submitted:
-
-(there are other files we uploaded into our repo - for our own purposes, but these are definitely in here and titled correctly for grading.)
-
-- word-sense-annotations.json (annotation for action castle)
-- action_castle_improved.ipynb
-- my_game_improved.ipynb
-- playthrough.txt
-- README.md
-
-# Part 2: Improve your Parser with Word Embeddings 
-
-We improved the parser using wordnet and word2vec word embeddings.  Our logic was to 1) Generate all combinations of sentences using wordnet, provided by the enumerate_alternatives() method in the skeleton file, then 2) If the user_command did not match any of the enumerated alternatives in the first step, query word2vec using their similarity() method to ensure it reaches a certain threshold (we tested several sentences and found that a threshold of 0.5 would encapsulated most similar sentences the best).  We had an internal dictionary of synonyms (word-sense-annotations.json) that was used to query all the synonyms needed to generate all the alternative sentences in the enumerate_alternatives() method.
-
-# Part 3: Added Sentiment Analysis
-
-To improve the game play experience of our text adventure we leveraged The TextBlob library for sentiment analysis.  In the end, we require the user to enter two negative sentiment insults in order to leave the basement stairs and win the game.  A few examples are 1) Yo mamma is so ugly when she tried to join an ugly contest they said, "Sorry, no professionals." and 2)
-Your feet smell; I hate you!, which is demonstrated in our playthrough.txt.  Feel free to experiment with all sorts of insults to Becca when you play the game.
+Growing up, one of my favorite childhood movies was Jurassic Park and I thought it would be fun to create a futuristic world where Dinosaurs were successfully created in Philadelphia on Penn campus.  I liked the idea of keeping Penn campus as the adventure map, because it's something that everyone knows and could picture in their mind as they go through the game and try to complete obstacles, preconditions, and puzzles.
 
 ## Things to acquire in order to complete the game
+> `Penn Student ID`
 
-1. `flashlight`
+> `Animal Tranquilizer or Cattle Prod`
 
-2. `key`
+> `MacBook Pro (a notebook computer)`
 
-3. `academic journal`
+> `Scripts written in Binary (that can only come from Eniac) to run in parallel on the NLP Grid over all their GPUs`
 
+> `Dongal.  Without it, you can't connect to the NLP Grid, since the EMP blast has destroyed all connection.`
+
+## What can get you killed
+### Try not to run into:
+  - Trex
+  - Velociraptors
+  - Dilophosaurus, or 
+  - Pterodactyl 
+  (without having any weapons in your inventory for defense)
 
 ## How do you win
-- Find the person that killed Mr. Body
-- Make sure you look and examine everything, because the clues will let you know when you need to talk to someone and their responses might change depending what is in your inventory or where you are.  So even though you've already "talk to Michael," if the adventure game tells you to talk to Michael again, you might want to do it... his script might have changed! 
+> `Find and manually turn on the back-up generators`
 
-[Run the Jurassic University Colab]
-[Run the Murder Mystery Text Adventure Game](https://colab.research.google.com/github/bikegirl/IFaTG/blob/master/HW2/my_game_improved.ipynb)
+> `Access the NLP Grid to re-engage the security system`
+
+In case you need some hints on how to finish the game, 
+don't forget to check out our playthrough.txt:
+[playthrough.txt](https://github.com/bikegirl/academic-kickstart/content/project/CIS-700-008/murder-mystery/playthrough.txt)
