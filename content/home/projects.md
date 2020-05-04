@@ -25,9 +25,9 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+#  [[content.filter_button]]
+#    name = "Deep Learning"
+#    tag = "Deep Learning"
   
   [[content.filter_button]]
     name = "Other"
@@ -45,17 +45,21 @@ subtitle = ""
     name = "Interactive Fiction"
     tag = "CIS 700-008"
 
-  [[content.filter_button]]
-    name = "Programming"
-    tag = "CIT 591"
+#  [[content.filter_button]]
+#    name = "Programming"
+#    tag = "CIT 591"
 
-  [[content.filter_button]]
-    name = "Israel"
-    tag = "Israel"
+#  [[content.filter_button]]
+#    name = "Israel"
+#    tag = "Israel"
 
   [[content.filter_button]]
     name = "Jewish Community"
     tag = "Jewish Community"
+
+  [[content.filter_button]]
+    name = "Extracurricular"
+    tag = "Extracurricular"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
