@@ -1,5 +1,5 @@
 ---
-title: Jurassic University!  Play my custome Text Adventure Game!
+title: Jurassic University!  My Custom Text Adventure Game!
 summary: Creating an imaginary world where Jurassic Park meets Penn Campus
 tags:
 - CIS 700-008
@@ -9,7 +9,7 @@ date: "2016-05-04T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "You did it.  You crazy son of bitch, you did it!!!"
+  caption: "\"You did it.  You crazy son of bitch, you did it\"!!!"
   focal_point: Smart
 
 links:
@@ -64,4 +64,4 @@ Growing up, one of my favorite childhood movies was Jurassic Park and I thought 
 > `Access the NLP Grid to re-engage the security system`
 
 In case you need some hints on how to finish the game, don't forget to check out our play-by-play:
-[playthrough.txt]("playthrough.txt")
+[playthrough.txt](playthrough.txt)
