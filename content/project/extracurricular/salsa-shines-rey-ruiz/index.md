@@ -33,4 +33,4 @@ slides: example
 
 
 <!--Embed Youtube Video-->
-<iframe width="580" height="335" src="https://www.youtube.com/embed/B2Ke0jT4Xow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/B2Ke0jT4Xow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

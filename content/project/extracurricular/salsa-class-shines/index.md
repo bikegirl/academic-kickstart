@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-<iframe width="600" height="355" src="https://www.youtube.com/embed/_xDTZfqZ4M4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/_xDTZfqZ4M4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
