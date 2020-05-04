@@ -1,6 +1,6 @@
 ---
-title: Jurrassic University!  Play my custome Text Adventure Game!
-summary: Writing my own text adventure game based off action-castle
+title: Jurassic University!  Play my custome Text Adventure Game!
+summary: Creating an imaginary world where Jurassic Park meets Penn Campus
 tags:
 - CIS 700-008
 date: "2016-05-04T00:00:00Z"
@@ -30,7 +30,7 @@ url_video: ""
 slides: example
 ---
 
-<img src="../media/shield-only-RGB-4k.png" align="left" width="120" hieght="120"> <img src="../media/icon.png" align="right" /> 
+<img src="../media/shield-only-RGB-4k.png" align="left" width="100" hieght="100"> <img src="../media/icon.png" align="right" /> 
 
 # Jurassic University
 In the year 2085, climate change had taken a turn for the worse, and nearly all the animals have become extinct.  Penn campus became #1 world-wide in genetics research efforts to rebuild life. Using DNA they found preserved in tree sap (amber) they combined it with that of DNA in amphibians to fill in the gaps of the missing sequences.  What they thought their latest test batch was going to be (replenish the livestock), instead gave life to Jurassic period Dinosaurs in Philadelphia!!!  At the behest of the commander in chief, The U.S. Military Forces immediately mobilized, but austere animal activists and PETA ruled to keep the Dinosaurs alive (PETA is the ruling class of the New One World order at this time).  At first everything was under control, but then an EMP attack on United States 10 years later rendered all security gates useless.  The Dinosaurs escaped their pens, are running around loose on Penn Campus wreaking havoc, and eating all the delicious insomnia cookies for themselves!  Your job is to find out where the back-up generators are located (to turn them on manually) and then re-engage the security system in the NLP Grid, before the Dinosaurs figure out where the main exit gate is to the world.  Also, try not to get eaten!!!
@@ -63,6 +63,5 @@ Growing up, one of my favorite childhood movies was Jurassic Park and I thought 
 
 > `Access the NLP Grid to re-engage the security system`
 
-In case you need some hints on how to finish the game, 
-don't forget to check out our playthrough.txt:
-[playthrough.txt](https://github.com/bikegirl/academic-kickstart/content/project/CIS-700-008/murder-mystery/playthrough.txt)
+In case you need some hints on how to finish the game, don't forget to check out our play-by-play:
+[playthrough.txt]("playthrough.txt")
