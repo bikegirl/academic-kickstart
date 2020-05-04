@@ -1,9 +1,9 @@
 ---
-title: West Coast Swing Improvisation to All-About-That-Base!!!
-summary: Improv dancing to Meghan Trainor's All About That Base...
+title: Salsa Shines for Advanced Salsa Class!!!
+summary: Teaching Full-Time at Go Dance Studio in Austin, TX
 tags:
 - Extracurricular
-date: "2014-05-19T00:00:00Z"
+date: "2014-05-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -33,4 +33,4 @@ slides: example
 
 
 <!--Embed Youtube Video-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qRNH9Pwh0p8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_xDTZfqZ4M4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
