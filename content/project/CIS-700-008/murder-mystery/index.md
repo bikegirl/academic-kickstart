@@ -6,7 +6,7 @@ tags:
 date: "2016-05-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://colab.research.google.com/github/bikegirl/IFaTG/blob/master/HW2/my_game_improved.ipynb"
+external_link: ""
 
 image:
   caption: Who-Dunnit?
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/tensorglow
 url_code: ""
 url_pdf: ""
 url_slides: ""
