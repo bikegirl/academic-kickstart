@@ -31,11 +31,9 @@ slides: example
 ---
 
 
-[Run the Murder Mystery Text Adventure Game](https://colab.research.google.com/github/bikegirl/IFaTG/blob/master/HW2/my_game_improved.ipynb)
+[Run My Murder Mystery Text Adventure Game](https://colab.research.google.com/github/bikegirl/IFaTG/blob/master/HW2/my_game_improved.ipynb) as part of the [CIS 700-008 Interactive Fiction and Text Generation](http://interactive-fiction-class.org/index.html) requirements taught by [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) and [Daphne Ipollito](https://www.seas.upenn.edu/~daphnei/)
 
-[CIS 700-008 Interactive Fiction and Text Generation](http://interactive-fiction-class.org/index.html)
-
-<img src="../media/shield-only-RGB-4k.png" align="left" width="60" hieght="60"> <img src="media/icon.png" align="right" />
+<img src="../media/shield-only-RGB-4k.png" align="left" width="120" hieght="120"> <img src="../media/icon.png" align="right" />
 
 # Introduction: Murder Mystery: Detective Text Adventure Game
 

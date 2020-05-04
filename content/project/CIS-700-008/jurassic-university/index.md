@@ -1,5 +1,42 @@
+---
+title: Jurrassic University!  Play my custome Text Adventure Game!
+summary: Writing my own text adventure game based off action-castle
+tags:
+- CIS 700-008
+date: "2016-05-04T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Who-Dunnit?
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/tensorglow
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
+
+
 <img src="../media/shield-only-RGB-4k.png" align="left" width="60" hieght="60"> 
 <img src="https://github.com/bikegirl/academic-kickstart/content/project/CIS-700-008/jurassic-university/icon.png" align="right" />
+
+
+
+
 
 # Introduction: Murder Mystery: Detective Text Adventure Game
 

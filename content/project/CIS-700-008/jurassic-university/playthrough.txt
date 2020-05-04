@@ -1,0 +1,163 @@
+Play by play
+
+>south
+>west
+>take penn card
+>east
+>south
+>south
+>east
+>take tranquilizer
+>west
+>south
+>shoot velociraptors
+>south
+>south
+>west
+>take computer
+>east
+>north
+>east
+>east
+>take cattle prod
+>south
+>east
+>pull lever
+>store dongal
+>west
+>north
+>north
+>stun t-rex
+>east
+>east
+>in
+>in
+>run scripts
+Winner winner chicken dinner!  YOU WIN!  The system is reactivated!
+THE GAME HAS ENDED.
+
+Actual Transcript:
+
+
+You are in 3401 Walnut NLP offices.
+Exits: South, North
+>south
+You standing in Walnut Street between Van Pelt and NLP offices.  You can cross or go down Walnut to get to another area of campus.
+Exits: South, North, East, West
+>west
+You are at Penn Bookstore.  Pick up your student ID or buy some paraphernalia.
+Exits: East
+You see: 
+penn card: Your Student ID
+>take penn card
+You take the penn card.
+>east
+You standing in Walnut Street between Van Pelt and NLP offices.  You can cross or go down Walnut to get to another area of campus.
+Exits: South, North, East, West
+>south
+You are in Van Pelt Library.
+Exits: South, North
+>south
+You are on Locust Walk, enjoying the wonderful scenery.
+Exits: South, North, East, West
+>east
+You are at Fischer Fine Arts, aka Hogwarts.
+Exits: West, East
+You see: 
+tranquilizer: Take the Tranquilizer Gun... Enough to stun a T-Rex!!!  It has unlimited darts.
+>take tranquilizer
+You take the tranquilizer.
+>west
+You are on Locust Walk, enjoying the wonderful scenery.
+Exits: South, North, East, West
+>south
+You are in Houston Dining Hall. The Insomnia Cookies are delicious here.
+Exits: South, North
+You see: 
+THE FASTEST DINOSAUR THAT HAS EVER LIVED.  YOU CAN'T OUTRUN HIM!
+	 shoot velociraptors
+	 bat velociraptors
+>shoot velociraptors
+You start shooting tranq darts at all the velociraptors.  Your aim is true. The velociraptors are charging at you, but they're tripping over their own feet and loosing balance.
+.wimper against their will to eat you and fall into a deep sleep.
+>south
+You are on Hamilton Walk (near Richards and Levin, not Levine).
+Exits: South, North, East
+>south
+You are in Fagin Hall (aka the nursing building).
+Exits: West, North
+>west
+You are in Richards & Goddard Buildings.  Center for Neuroscience.
+Exits: West, East
+You see: 
+computer: A silver apple MacBook Pro.
+walky talky: It's a "Stranger Things" kind-of-a Walky Talky.
+>take computer
+You take the computer.
+>east
+You are in Fagin Hall (aka the nursing building).
+Exits: West, North
+>north
+You are on Hamilton Walk (near Richards and Levin, not Levine).
+Exits: South, North, East
+>east
+You are on 36th street.  You can cross it to get to another area of campus.
+Exits: West, East
+>east
+You are at HUP.  The Hospital of the University of Philadelphia.
+Exits: West, North, South, East
+You see: 
+cattle prod: Enough voltage to stun a Dinosaur!
+>take cattle prod
+You take the cattle prod.
+>south
+You are at CHOP.
+Exits: North, East
+>east
+You are in Perelman School of Medicine, hub of all genetics and biochem research.
+Exits: West
+You see: 
+PULL THE LEVER TO INITIATE THE BACK-UP GENERATORS AND ENABLE ELECTRICITY AGAIN.
+	 pull lever
+>pull lever
+You pulled the lever to engage the generators.
+Pulling the lever has released a new item: Dongal!
+Take the dongal with you: "store dongal". You'll need it later to reactivate the security system.
+>store dongal
+You store the dongal in your pocket to access the NLP Grid later.
+>west
+You are at CHOP.
+Exits: North, East
+>north
+You are at HUP.  The Hospital of the University of Philadelphia.
+Exits: West, North, South, East
+>north
+You are on 34th street.  You can cross it to get to another area of campus.
+Exits: South, West, East
+You see: 
+THE MOST DANGEROUS DINOSAUR THAT HAS EVER LIVED.
+	 shoot t-rex
+	 stun t-Rex
+	 bat t-Rex
+>stun t-rex
+You stun the T-Rex over and over.
+With each stun, T-Rex's little arms flail around vigoroursly and she looks at you with awkward eye contact.
+She whimpers knowing she can't fight the voltage coursing through her veins and falls hard in one feel swoop.
+>east
+You are at Levine (not Levine), near Towne.
+Exits: West, East
+>east
+You successfully scanned your ID card.  You are in Moore Building, where the ENIAC lives!
+Exits: West, In
+>in
+You right in front of ENIAC, sitting on the floor with you notebook computer ready to go!
+Exits: Out, In
+>in
+You are inside the NLP Grid!!!
+Exits: Out
+You see: 
+The scripts written in binary code you need to run to get the security system back up!
+	 run scripts
+>run scripts
+Winner winner chicken dinner!  YOU WIN!  The system is reactivated!
+THE GAME HAS ENDED.
