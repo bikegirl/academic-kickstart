@@ -9,7 +9,7 @@ date: "2016-05-04T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "\"You did it.  You crazy son of bitch, you did it\"!!!"
+  caption: "\"You did it.  You crazy son of bitch, you did it!!!\""
   focal_point: Smart
 
 links:
@@ -30,7 +30,7 @@ url_video: ""
 slides: example
 ---
 
-<img src="../media/shield-only-RGB-4k.png" align="left" width="100" hieght="100"> <img src="../media/icon.png" align="right" /> 
+<img src="../media/shield-only-RGB-4k.png" align="left" width="100" hieght="100" style="margin:20px 20px"> <img src="../media/icon.png" align="right" style="margin:20px 20px" /> 
 
 # Jurassic University
 In the year 2085, climate change had taken a turn for the worse, and nearly all the animals have become extinct.  Penn campus became #1 world-wide in genetics research efforts to rebuild life. Using DNA they found preserved in tree sap (amber) they combined it with that of DNA in amphibians to fill in the gaps of the missing sequences.  What they thought their latest test batch was going to be (replenish the livestock), instead gave life to Jurassic period Dinosaurs in Philadelphia!!!  At the behest of the commander in chief, The U.S. Military Forces immediately mobilized, but austere animal activists and PETA ruled to keep the Dinosaurs alive (PETA is the ruling class of the New One World order at this time).  At first everything was under control, but then an EMP attack on United States 10 years later rendered all security gates useless.  The Dinosaurs escaped their pens, are running around loose on Penn Campus wreaking havoc, and eating all the delicious insomnia cookies for themselves!  Your job is to find out where the back-up generators are located (to turn them on manually) and then re-engage the security system in the NLP Grid, before the Dinosaurs figure out where the main exit gate is to the world.  Also, try not to get eaten!!!
