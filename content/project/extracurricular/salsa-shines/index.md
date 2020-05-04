@@ -1,5 +1,5 @@
 ---
-title: Salsa Shines Week 1: Go Dance Salsa Level 3!!!
+title: Salsa Shines Week 1 Go Dance Salsa Level 3!!!
 summary: Teaching Full-Time at Go Dance Studio in Austin, TX
 tags:
 - Extracurricular
