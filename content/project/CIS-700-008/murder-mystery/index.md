@@ -35,7 +35,7 @@ slides: example
 
 as part of the [CIS 700-008 Interactive Fiction and Text Generation](http://interactive-fiction-class.org/index.html) requirements taught by [Dr. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) and [Daphne Ippolito](https://www.seas.upenn.edu/~daphnei/)
 
-<img src="../media/shield-only-RGB-4k.png" align="left" width="100" hieght="100"> <img src="../media/icon.png" align="right" />
+<img src="../media/shield-only-RGB-4k.png" align="left" width="100" hieght="100" style="margin:20px 20px"> <img src="../media/icon.png" align="right" style="margin:20px 20px" />
 
 # Introduction: Murder Mystery: Detective Text Adventure Game
 
