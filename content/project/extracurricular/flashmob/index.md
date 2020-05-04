@@ -1,6 +1,6 @@
 ---
 title: West Coast Swing Choreography Promo Video
-summary: Promo Video of the west coast swing choreography I created for a 2014 flashmob for all of Austin (I'm dancing in the front row)
+summary: Promo Video of the west coast swing choreography I created for a 2014 flashmob for all of Austin!!!
 - Extracurricular
 date: "2014-09-06T00:00:00Z"
 
