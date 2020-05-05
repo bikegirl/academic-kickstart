@@ -9,7 +9,7 @@ date: "2016-05-04T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "\"You did it.  You crazy son of bitch, you did it!!!\""
+  caption: Harry Potter and The Prisoner of Azkaban
   focal_point: Smart
 
 links:
