@@ -32,4 +32,4 @@ slides: example
 
 Have you always wanted to be a part of a flash mob? Now's your chance! Attend one of our Flash Mob workshops this month to learn the choreography, then save the date for the flash mob on the evening of September 6th! Be sure to invite your friends to join in on the fun!
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavidabril%2Fvideos%2F10152685073667835%2F&show_text=1&width=1215" width="1215" height="480" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavidabril%2Fvideos%2F10152685073667835%2F&show_text=1&width=750" width="750" height="422" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
