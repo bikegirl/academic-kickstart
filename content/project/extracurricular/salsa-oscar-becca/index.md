@@ -32,4 +32,4 @@ slides: example
 
 Deja Vu Salsa Sundays in Austin, TX at Go Dance Studio
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/hlEDi1ARiC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1215" height="480" src="https://www.youtube.com/embed/hlEDi1ARiC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
