@@ -1,5 +1,5 @@
 ---
-title: 2 Chronicles 7:14
+title: 2 Chronicles 7:13-14
 summary: If my people, who are called by my name, will humble themselves...
 tags:
 - Chronicles
@@ -32,7 +32,10 @@ url_video: ""
 slides: example
 ---
 
-"If my people, who are called by my name, 
+"When I shut up the heavens so that there is no rain, 
+or command locusts to devour the land or send a plague 
+among my people...
+If my people, who are called by my name, 
 will humble themselves and pray and seek my face and turn from their wicked ways, 
 then I will hear from heaven, 
 and I will forgive their sin, 

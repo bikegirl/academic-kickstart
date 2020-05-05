@@ -49,9 +49,9 @@ subtitle = ""
 #    name = "Programming"
 #    tag = "CIT 591"
 
-#  [[content.filter_button]]
-#    name = "Israel"
-#    tag = "Israel"
+   [[content.filter_button]]
+     name = "Israel"
+     tag = "Israel"
 
   [[content.filter_button]]
     name = "Jewish Community"
