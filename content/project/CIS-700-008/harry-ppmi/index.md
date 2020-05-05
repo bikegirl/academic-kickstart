@@ -29,12 +29,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 
+---
+
 <head>
     <script type="text/javascript"
             src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_SVG">
     </script>
 </head>
----
 \documentclass{article}
 \usepackage{hyperref}
 \usepackage[letterpaper]{geometry}
