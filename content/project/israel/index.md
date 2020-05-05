@@ -9,7 +9,7 @@ date: "2019-08-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Israel Fellows: Mallory, Shima, Miriam, and Becca
+  caption: Israel Fellows Mallory, Shima, Miriam, and Becca
   focal_point: Smart
 
 links:
