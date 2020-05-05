@@ -32,29 +32,6 @@ slides: example
 ---
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML'></script>
-\documentclass{article}
-\usepackage{hyperref}
-\usepackage[letterpaper]{geometry}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{graphicx}
-\usepackage{float}
-\usepackage{array}
-\usepackage{tikz}
-\usepackage{enumerate}
-\usepackage{booktabs}
-\usepackage{tabularx}
-\usepackage{xcolor,colortbl}
-\usepackage{caption} 
-\usepackage{authblk}
-\usepackage{parskip}
-\usepackage[shortlabels]{enumitem}
-\usepackage{fancyvrb}
-
-\documentclass{article}
-\usepackage[utf8]{inputenc}
-\usepackage{longtable}
-
 \begin{document}
 \section{Preliminary Results}
 The following is an example of an event chain extracted from a story from the fan fiction:
@@ -239,5 +216,4 @@ Hermione & belong, fade, earn, rub, handle, happen, attempt, welcome, cut, trans
 \end{table}
 
 Table \ref{tab:compare_actions} contains lists of verbs that are statistically over-represented in the Harry Potter fan fiction for specific characters. Interestingly, characters such as Voldemort and Draco who are villains in the canon seem to have a softer side to them in the fan fiction. Voldemort in the fan fiction is associated with verbs such as `love', `feel', `help', and `smile'. Likewise, Draco is associated with `marry', and `apologize'. Notably, since verbs are being compared within the fan fiction corpus, these results imply that Voldemort and Draco are statistically `kinder' than other characters in the fan fiction. In addition, the results suggest that authors of fan fiction offer a more nuanced depiction of the canonical `bad guys' than is available in the original seven books. Finally, we note that Harry is associated with the verb `flirt'. In contrast, the canonical Harry is a shy and introverted character unlikely to overtly flirt with other characters. 
-
 \end{document}
