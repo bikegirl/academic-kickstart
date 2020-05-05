@@ -31,200 +31,175 @@ slides: example
 
 ---
 
-Preliminary Results
-===================
-
-The following is an example of an event chain extracted from a story
-from the fan fiction:
-
-1.  ('CLUSTER 0', 'nsubj'), ('walked', 'root')
-
-2.  ('CLUSTER 0', 'nsubj'), ('looked', 'root')
-
-3.  ('CLUSTER 0', 'nsubj'), ('changed', 'root')
-
-4.  ('CLUSTER 0', 'nsubj'), ('asked', 'root')
-
-In the example above, the character in Harry Potter referred to as
-'CLUSTER 0' first walks, then looks, changes, and finally asks. The
-first element in every tuple is the word in the document with its
-replaced coreference-resolution tag and the second element is its first
-order dependency parse that was used to extract the event chain of every
-noun subject of a story.
-
-sectionResults
-
-Pointwise Mutual Information (PMI) Analysis
--------------------------------------------
-
-The most probable bigrams and the bigrams with the highest PMI were ran
-over all words, verbs, and events of the two corporas: Harry Potter
-Fanfiction and Harry Potter Canons. PMI analysis reveals the unique
-co-occuring concepts in each of the corporas and highlights other
-stylistic writing differences on average from the authors. Most probable
-bigrams are shown along side the highest PMI bigrams in each of the
-tables to show that the magnitude of the frequency count of each bigram
-over total bigrams does not entail importance or significance in a
-document and underscoring the value of PMI analysis.
-
-::: {#long}
-  ------------------------- -------------------- --------------------------- --------------------
-   Harry Potter Fanfiction   Harry Potter Canon    Harry Potter Fanfiction    Harry Potter Canon
-           of the                  of the              bibbidi bobbidi          avada kedavra
-           in the                  in the               merus lumens            felix felicis
-           to the                said harry             zauberei dorf           bertha jorkins
-           it was                  he was                hoity toity           whomping willow
-           on the                  at the             palatino linotype        expecto patronum
-           at the                  to the             magikos akademia          dressing gown
-           he was                  on the             alarte ascendare          grubbly plank
-            to be                  it was             inkosi inkosikazi        zacharias smith
-           she was                 he had                namby pamby           law enforcement
-            i was                  out of              modus operandi           auntie muriel
-            and i                 said ron              cuevas gontan          bathilda bagshot
-           out of                 into the              füvessy uram              goal posts
-          going to                 to be          toothflossing stringmints    pansy parkinson
-           with a                   in a              babbitty rabbitty        deathly hallows
-           he had                 from the            higgledy piggledy        phineas nigellus
-            as he              said hermione              dawh dawh              king's cross
-            in a                  had been               shoop shoop             diagon alley
-           for the                he said              loundon's towne          pumpkin juice
-            was a                  was a               farlin flookey             st mungos
-           as she                  of his              helter skelter           godrics hollow
-                                                                             
-  ------------------------- -------------------- --------------------------- --------------------
-
-  : PMI Analysis on Words.[\[long\]]{#long label="long"}
-:::
-
-Two random variable X, Y are independent iff their joint distribution is
-equal to the product of their marginal probabilities:
-$$p( X, Y ) = p( X )p( Y )$$ That is for all outcomes x, y:
-$$p( X, Y ) = p( X )p( Y )$$ So the mutual information \"I\" can be
-described as: $$I(X; Y ) = 
-\sum_{XY}^{}
-p(X = x, Y = y) log p(X = x, Y = y)
-p(X = x)p(Y = y)$$ We find pairs of words *wi, wj* that have high
-pointwise mutual information, because this signifies the frequency count
-of their co-occurrence is much greater than how often each word appeared
-independently in the corpora, as seen in equation 4.
-$$PMI(wi, wj ) = log\tfrac{p(wi, wj )}{p(wi)p(wj )}$$
-
-In Table 1, you can see that the most probable bigrams aren't telling,
-but both the Canon and the Fanfiction feature common 'spells' from the
-text as their highest rated PMI bigrams. From the canon you see 'avada
-kedavra' and 'expecto patronum' which were common spells from the books
-and films, and from the Fanfiction we see 'merus lumens' and 'alarte
-ascendare.'
-
-::: {#long}
-  ------------------------- -------------------- ------------------------- --------------------
-   Harry Potter Fanfiction   Harry Potter Canon   Harry Potter Fanfiction   Harry Potter Canon
-          said said              said said               oyt cafru             slammed shut
-           let go               said looking            Erised oyt            starting feel
-          know said               do said                born dies             looking saw
-        said looking             know said                doo doo              trying sound
-           was was               said know          destroyed destroyed       came striding
-           go said                got said                cha cha             came hurrying
-           do said                I've got               de gnome            looking puzzled
-           have do                was said               drip drip           looking relieved
-          get said                is said                tick tick          looking bewildered
-          said know             said looked              beep beep             turned face
-          have said               said was                won won              trying catch
-         said looked              go said          captivate resonating        managed find
-          knew was               have said              click click            supposed be
-         asked said              said think              live born           stopped talking
-           know is                said got              liked hated            wanted talk
-          know know               see said           vested pronounce           made feel
-           know do                get said             raptured ends          stood waiting
-           have go               asked said            ceases amaze           expecting see
-          see said                's said                bid adieu                let go
-          want know              think said             loved hated             need talk
-                                                                           
-  ------------------------- -------------------- ------------------------- --------------------
-
-  : PMI Analysis on Verbs.[\[long\]]{#long label="long"}
-:::
-
-The difference between unique co-occuring verbs between the fanfiction
-and the canon is telling. One of the conclusions we can draw from the
-results of the PMI analysis of co-occuring verbs is writing style
-difference. There are 4 main writing styles: Expository, Descriptive,
-Persuasive, and Narrative. The co-occuring verbs that were identified as
-the highest-valued unique concepts in the fanfiction (3rd column from
-the left) reveal a certain writing style that is most in common with
-'Descriptive' and the Canon (last column in Table 2) is most in common
-with 'Narrative.' In a descriptive writing style, the authors on average
-use language that lead by the five senses (what they hear, see, smell,
-taste, or touch), which is evidence by the \"drip, drip\" and \"beep,
-beep\" and \"tick, tick\" ranking amongst the highest PMI bigrams for
-this corpora. By contrast, narrative style of writing is concerned with
-character development, constructing a story, conflict and setting, which
-is evidenced by the pleasant flow of co-occurring verbs in the canon.
-
-::: {#long}
-  ------------------------- --------------------- --------------------------------- ----------------------
-   Harry Potter Fanfiction   Harry Potter Canon        Harry Potter Fanfiction        Harry Potter Canon
-         (was, gone)           (wanted, watch)       (acknowledged, manifested)        (woke, remember)
-        (love, hear)            (watch, was)            (orgasimed, griping)            (sleep, dozed)
-      (drifted, sleep)           (was, rose)             (clamp, her mouth)             (fuming, hear)
-      (turned, walked)         (rose, pressed)           (streaking, ripple)            (check, chose)
-        (love, know)         (pressed, blinked)             (sed, shuld)             (clambered, hurried)
-        (want, know)           (rolled, fell)             (hace, xplained)             (hurried, tell)
-       (walked, left)           (fell, woke)            (contunue, document)           (living, giving)
-         (knew, was)          (woke, remember)          (clanged, aperating)          (squeezed, could)
-       (hope, enjoyed)         (was, heaving)          (reinforced, quenched)         (crumpled, burned)
-          (was, be)            (slumped, fell)     (differ, a bushy - haired girl)     (avoid, hitting)
-       (turned, left)          (looking, felt)         (rejuvenated, cleansed)        (hitting, groped)
-         (knew, be)              (felt, was)             (delves, submerges)          (groped, smashed)
-        (would, like)          (felt, fainted)            (punishing, pine)            (fighting, keep)
-          (be, was)            (lay, looking)              (oohed, ahhed)              (know, meeting)
-        (like, know)          (looking, sleep)         (memorised, visualised)        (meeting, holding)
-         (know, was)           (sleep, dozed)         (dk, the little blue box)         (agrees, sent)
-        (try, update)         (been, realized)           (proceeds, doodle)           (throws, getting)
-        (left, left)         (wrenched, leaving)      (infatuated, unbelieving)         (getting, rid)
-        (hope, liked)        (leaving, standing)        (releases, vanishes)             (go, turned)
-         (had, was)          (standing, staring)         (bowing, restoring)           (cleared, read)
-                                                                                    
-  ------------------------- --------------------- --------------------------------- ----------------------
-
-  : PMI Analysis on Events.[\[long\]]{#long label="long"}
-:::
-
-In Table 3, an event was considered co-occuring if it occurred alongside
-another event in the same story and in the same chapter. Events were
-extracted first using dependency parsing and semantic role labeling in
-conjunction with coreference resolution. Each event consisted of a tuple
-with one verb and one argument (whether subject or object) and counted
-over the whole corpora. The events here are not character dependent,
-this is an analysis over all the events found in the corpora in general.
-Future work will include PMI analysis over co-occuring events within
-each character to delineate not only events that correspond to each
-character, but which events consititute a unique concept to that
-character. These general results will also be applied in the future work
-as positive examples for predicitive modeling to predict an event given
-a previous event and/or it's temperal order.
-
-Log-Odds Analysis
------------------
-
-When comparing two corpora $A$ and $B$, it is of interest to determine
-whether certain words $w$ are more common in corpus $A$ than in corpus
-$B$, while controlling for their relative sizes. A simple metric that
-formally quantifies this notion is the log-odds-ratio defined as
-follows:
-$$log \; odds \; of \; w = \frac{\frac{\# \; of \; occurences \; of \; w \; in \; A}{total \; \# \; of \; words \; in \; A}}{\frac{\# \; of \; occurences \; of \; w \; in \; B}{total \; \# \; of \; words \; in \; B}}$$
-
-### Comparison of Corpora
-
-. [\[corpus\_level\_odds\]]{#corpus_level_odds
-label="corpus_level_odds"} We begin by performing a log-odds-ratio
-analysis to compare Harry Potter literature to a generic corpus of
-English language text. Table [\[tab:compare\_corpora\]] contains lists
-of tokens that appear out of place when specific pairs of corpora are
-compared. Unsurprisingly, we find that words pertaining to the Harry
-Potter books specifically, such as the names of characters, are
-statistically over-represented in both the Harry Potter canon and the
-fan fiction, relative to standard English.
-
-  [\[tab:compare\_corpora\]]: #tab:compare_corpora {reference-type="ref"
-  reference="tab:compare_corpora"}
+to 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title>Untitled</title>
+  <style type="text/css">
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<h1 id="preliminary-results">Preliminary Results</h1>
+<p>The following is an example of an event chain extracted from a story from the fan fiction:</p>
+<ol>
+<li><p>(’CLUSTER 0’, ’nsubj’), (’walked’, ’root’)</p></li>
+<li><p>(’CLUSTER 0’, ’nsubj’), (’looked’, ’root’)</p></li>
+<li><p>(’CLUSTER 0’, ’nsubj’), (’changed’, ’root’)</p></li>
+<li><p>(’CLUSTER 0’, ’nsubj’), (’asked’, ’root’)</p></li>
+</ol>
+<p>In the example above, the character in Harry Potter referred to as ’CLUSTER 0’ first walks, then looks, changes, and finally asks. The first element in every tuple is the word in the document with its replaced coreference-resolution tag and the second element is its first order dependency parse that was used to extract the event chain of every noun subject of a story.</p>
+<h1 id="results">Results</h1>
+<h2 id="pointwise-mutual-information-pmi-analysis">Pointwise Mutual Information (PMI) Analysis</h2>
+<p>The most probable bigrams and the bigrams with the highest PMI were ran over all words, verbs, and events of the two corporas: Harry Potter Fanfiction and Harry Potter Canons. PMI analysis reveals the unique co-occuring concepts in each of the corporas and highlights other stylistic writing differences on average from the authors. Most probable bigrams are shown along side the highest PMI bigrams in each of the tables to show that the magnitude of the frequency count of each bigram over total bigrams does not entail importance or significance in a document and underscoring the value of PMI analysis.</p>
+<div id="long">
+<table>
+<caption>PMI Analysis on Words.<span id="long" label="long">[long]</span></caption>
+<tbody>
+<tr class="odd">
+<td align="center">Harry Potter Fanfiction</td>
+<td align="center">Harry Potter Canon</td>
+<td align="center">Harry Potter Fanfiction</td>
+<td align="center">Harry Potter Canon</td>
+</tr>
+<tr class="even">
+<td align="center">of the</td>
+<td align="center">of the</td>
+<td align="center">bibbidi bobbidi</td>
+<td align="center">avada kedavra</td>
+</tr>
+<tr class="odd">
+<td align="center">in the</td>
+<td align="center">in the</td>
+<td align="center">merus lumens</td>
+<td align="center">felix felicis</td>
+</tr>
+<tr class="even">
+<td align="center">to the</td>
+<td align="center">said harry</td>
+<td align="center">zauberei dorf</td>
+<td align="center">bertha jorkins</td>
+</tr>
+<tr class="odd">
+<td align="center">it was</td>
+<td align="center">he was</td>
+<td align="center">hoity toity</td>
+<td align="center">whomping willow</td>
+</tr>
+<tr class="even">
+<td align="center">on the</td>
+<td align="center">at the</td>
+<td align="center">palatino linotype</td>
+<td align="center">expecto patronum</td>
+</tr>
+<tr class="odd">
+<td align="center">at the</td>
+<td align="center">to the</td>
+<td align="center">magikos akademia</td>
+<td align="center">dressing gown</td>
+</tr>
+<tr class="even">
+<td align="center">he was</td>
+<td align="center">on the</td>
+<td align="center">alarte ascendare</td>
+<td align="center">grubbly plank</td>
+</tr>
+<tr class="odd">
+<td align="center">to be</td>
+<td align="center">it was</td>
+<td align="center">inkosi inkosikazi</td>
+<td align="center">zacharias smith</td>
+</tr>
+<tr class="even">
+<td align="center">she was</td>
+<td align="center">he had</td>
+<td align="center">namby pamby</td>
+<td align="center">law enforcement</td>
+</tr>
+<tr class="odd">
+<td align="center">i was</td>
+<td align="center">out of</td>
+<td align="center">modus operandi</td>
+<td align="center">auntie muriel</td>
+</tr>
+<tr class="even">
+<td align="center">and i</td>
+<td align="center">said ron</td>
+<td align="center">cuevas gontan</td>
+<td align="center">bathilda bagshot</td>
+</tr>
+<tr class="odd">
+<td align="center">out of</td>
+<td align="center">into the</td>
+<td align="center">füvessy uram</td>
+<td align="center">goal posts</td>
+</tr>
+<tr class="even">
+<td align="center">going to</td>
+<td align="center">to be</td>
+<td align="center">toothflossing stringmints</td>
+<td align="center">pansy parkinson</td>
+</tr>
+<tr class="odd">
+<td align="center">with a</td>
+<td align="center">in a</td>
+<td align="center">babbitty rabbitty</td>
+<td align="center">deathly hallows</td>
+</tr>
+<tr class="even">
+<td align="center">he had</td>
+<td align="center">from the</td>
+<td align="center">higgledy piggledy</td>
+<td align="center">phineas nigellus</td>
+</tr>
+<tr class="odd">
+<td align="center">as he</td>
+<td align="center">said hermione</td>
+<td align="center">dawh dawh</td>
+<td align="center">king’s cross</td>
+</tr>
+<tr class="even">
+<td align="center">in a</td>
+<td align="center">had been</td>
+<td align="center">shoop shoop</td>
+<td align="center">diagon alley</td>
+</tr>
+<tr class="odd">
+<td align="center">for the</td>
+<td align="center">he said</td>
+<td align="center">loundon’s towne</td>
+<td align="center">pumpkin juice</td>
+</tr>
+<tr class="even">
+<td align="center">was a</td>
+<td align="center">was a</td>
+<td align="center">farlin flookey</td>
+<td align="center">st mungos</td>
+</tr>
+<tr class="odd">
+<td align="center">as she</td>
+<td align="center">of his</td>
+<td align="center">helter skelter</td>
+<td align="center">godrics hollow</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Two random variable X, Y are independent iff their joint distribution is equal to the product of their margin</p>
+</body>
+</html>
