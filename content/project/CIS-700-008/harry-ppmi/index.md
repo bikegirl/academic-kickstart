@@ -30,12 +30,6 @@ url_video: ""
 slides: example
 
 ---
-<head>
-    <script type="text/javascript"
-            src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_SVG">
-    </script>
-</head>
-
 \documentclass{article}
 \usepackage{hyperref}
 \usepackage[letterpaper]{geometry}
