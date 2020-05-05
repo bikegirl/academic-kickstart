@@ -37,7 +37,7 @@ professionals. The fellows will be responsible for producing three events on the
 within the Philadelphia community, working with partner organizations, and bringing Israel into
 their community in a relevant and accessible way.
 
-Visit the [J]ewish Graduate Student Network](https://jewishgrads.org/) for more information.
+Visit the [Jewish Graduate Student Network](https://jewishgrads.org/) for more information.
 
 
 
