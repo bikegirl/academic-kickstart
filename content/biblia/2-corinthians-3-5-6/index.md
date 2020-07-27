@@ -2,8 +2,8 @@
 title: 2 Corinthians 3:5-6
 summary: Not that we are competent in ourselves...
 tags:
-- Chronicles
-date: "2016-05-02T00:00:00Z"
+- Corinthians
+date: "2020-07-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
