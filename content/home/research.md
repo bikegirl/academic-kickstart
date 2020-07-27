@@ -26,8 +26,24 @@ subtitle = "PhD Research Projects"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Motivational Boost"
-    tag = "Motivational Boost"
+    name = "Persuasion"
+    tag = "Persuasion"
+
+  [[content.filter_button]]
+    name = "Story Generation"
+    tag = "Story Generation"
+
+  [[content.filter_button]]
+    name = "DARPA KAIROS"
+    tag = "Story Generation"
+
+  [[content.filter_button]]
+    name = "Information Retrieval"
+    tag = "Information Retrieval"
+
+  [[content.filter_button]]
+    name = "Event-Primitives"
+    tag = "Event-Primitives"
   
   [[content.filter_button]]
     name = "Other"
