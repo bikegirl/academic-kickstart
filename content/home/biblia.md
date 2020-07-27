@@ -23,7 +23,7 @@ subtitle = "pasajes favoritos"
   
   [[content.filter_button]]
     name = "All"
-    tag = "*"
+    tag = "Isaiah"
   
   [[content.filter_button]]
     name = "Isaiah"
