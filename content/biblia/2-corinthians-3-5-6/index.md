@@ -32,4 +32,4 @@ url_video: ""
 slides: ""
 ---
 
-^5 Not that we are competent in ourselves to claim anything for ourselves, but our competence comes from God. ^6 He has made us competent as ministers of a new covenant—not of the letter but of the Spirit; for the letter kills, but the Spirit gives life.
+"^5 Not that we are competent in ourselves to claim anything for ourselves, but our competence comes from God. ^6 He has made us competent as ministers of a new covenant—not of the letter but of the Spirit; for the letter kills, but the Spirit gives life.""
