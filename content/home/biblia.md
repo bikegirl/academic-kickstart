@@ -69,6 +69,14 @@ subtitle = "pasajes favoritos"
     name = "Matthew"
     tag = "Matthew"
 
+  [[content.filter_button]]
+    name = "Psalms"
+    tag = "Psalms"
+
+  [[content.filter_button]]
+    name = "Joel"
+    tag = "Joel"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
