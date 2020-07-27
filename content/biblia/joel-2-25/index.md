@@ -33,7 +33,7 @@ slides: example
 ---
 
 The Trees Are Bearing Fruit Again
-^21-24 Fear not, Earth! Be glad and celebrate!
+21-24 Fear not, Earth! Be glad and celebrate!
 God has done great things.
 Fear not, wild animals!
 The fields and meadows are greening up.
@@ -47,7 +47,7 @@ Teaching, like rain out of heaven, showers of words
 to refresh and nourish your soul, just as he used to do.
 And plenty of food for your body—silos full of grain,
 casks of wine and barrels of olive oil.
-^25-27 “I’ll make up for the years of the locust,
+25-27 “I’ll make up for the years of the locust,
 the great locust devastation—
 Locusts savage, locusts deadly,
 fierce locusts, locusts of doom,

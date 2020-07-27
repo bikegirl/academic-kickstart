@@ -3,7 +3,7 @@ title: Psalm 139: 23-24
 summary: 
 tags:
 - Psalms
-date: "2016-05-02T00:00:00Z"
+date: "2016-07-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,7 +32,7 @@ url_video: ""
 slides: example
 ---
 
-^23 Search me, God, and know my heart;
+23 Search me, God, and know my heart;
 test me and know my anxious thoughts.
-^24 See if there is any offensive way in me,
+24 See if there is any offensive way in me,
 and lead me in the way everlasting.
