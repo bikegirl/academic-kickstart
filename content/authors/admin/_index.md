@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: PhD Student in Computer Science
+<!--   - course: PhD Student in Computer Science
     institution: University of Pennsylvania
-    year: Anticipated May 2024
-  - course: MS in Computer Science
+    year: Anticipated May 2024 -->
+  - course: MS in Computer Science, 2020
     institution: University of Pennsylvania
   - course: BS in Chemistry
     institution: Texas State University
