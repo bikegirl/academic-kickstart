@@ -30,15 +30,6 @@ education:
   courses:
   - course: MS in Computer Science, 2020
     institution: University of Pennsylvania
-<!--   - course: BS in Chemistry
-    institution: Texas State University
-  - course: AS in Computer Science
-    institution: Austin Community College
-  - course: AA in Spanish 
-    institution: Austin Community College
-  - course: PhD Student in Computer Science
-    institution: University of Pennsylvania
-    year: Anticipated May 2024 -->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
