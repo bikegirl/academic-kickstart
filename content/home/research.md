@@ -27,7 +27,7 @@ subtitle = "PhD Research Projects"
   
   [[content.filter_button]]
     name = "NLP and Psychology"
-    tag = "NLP and and Psychology"
+    tag = "NLP and Psychology"
 
   [[content.filter_button]]
     name = "Text Simplification"

@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project. this use to be page_type = widget_page"
-  page_type = "research"
+  page_type = "widget_page"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
