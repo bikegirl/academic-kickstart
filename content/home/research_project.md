@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "NLP and Psychology"
+  #  name = "NLP and Psychology"
     tag = "NLP and Psychology"
   
    # [[content.filter_button]]
