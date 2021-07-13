@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include Cross-Lingual Information Retrieval, Multilingual Information Retrieval, Narrative Event Schemas, Event Extraction, Personality Profiling, and Persuasive Content-Messaging.
 
 interests:
-- Monolingual and Multilingual Information Retrieval
+- Information Retrieval
 - Narrative Event Schemas and Event Extraction
 - Persuasive Content Messaging
 
