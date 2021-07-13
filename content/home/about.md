@@ -78,7 +78,10 @@ subtitle = ""
 <!--Embed Youtube Video-->
 {{< youtube -r2mK4SM4Vg >}}
 
-&emsp;&emsp;Goodbye Austin, TX!!!  This is my official farewell as I start a new beginning in the historic city of Philadelphia, Pennslyvania...  I had to submit a college video essay to one of the grad schools I applied to and thought I’d share “how it all began.”
+<br>
+<br>
+
+&emsp;&emsp;Goodbye Austin, TX!!!  This is my official farewell as I start a new beginning in the historic city of Philadelphia, Pennslyvania...&emsp;  I had to submit a college video essay to one of the grad schools I applied to and thought I’d share “how it all began.”
 
 <!-- &emsp;&emsp;When it comes to applying to grad school, I think I win the award for the world's biggest emotional roller coaster. A handful of my closest friends know the intimate details of all the highs and lows leading up to grad school, suffice it to say it’s been crazy.
 
