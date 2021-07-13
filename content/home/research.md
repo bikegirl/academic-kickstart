@@ -26,8 +26,8 @@ subtitle = "PhD Research Projects"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Psycholinguistics and Neuroscience"
-    tag = "Psycholinguistics and Neuuroscience"
+    name = "NLP and Psychology"
+    tag = "NLP and and Psychology"
 
   [[content.filter_button]]
     name = "Text Simplification"
