@@ -28,7 +28,9 @@ interests:
 
 education:
   courses:
-  - course: MS in Computer Science, 2020
+  - course: MS in Computer Science, May 2020
+    institution: University of Pennsylvania
+  - course: MS in Computer Science Engineering, Graduating Fall 2021
     institution: University of Pennsylvania
 
 # Social/Academic Networking
