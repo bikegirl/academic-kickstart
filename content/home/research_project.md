@@ -1,4 +1,6 @@
 +++
+## This is a widget page (this does not show up under research)
+## If you want research to show up under research section go to research folder in the source directory (different section than this)
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -21,13 +23,13 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  #[[content.filter_button]]
+  #  name = "All"
+  #  tag = "*"
 
-  [[content.filter_button]]
-    name = "NLP and Psychology"
-    tag = "NLP and Psychology"
+  #[[content.filter_button]]
+  #  name = "NLP and Psychology"
+  #  tag = "NLP and Psychology"
   
   # [[content.filter_button]]
   #   name = "Other"

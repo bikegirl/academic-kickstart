@@ -2,7 +2,7 @@
 title: Motivational Boost
 summary: Using the powers of persuasion for good!
 tags:
-- Persuasion
+- NLP and Psychology
 date: "2018-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
