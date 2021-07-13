@@ -22,10 +22,7 @@ publication_short: Association for Computational Linguistics
 abstract: Acquiring training data for natural language processing systems can be expensive and time-consuming. Given a few training examples crafted by experts, large corpora can be mined for thousands of semantically similar examples that provide useful variability to improve model generalization. We present TopGuNN, a fast contextualized k-NN retrieval system that can efficiently index and search over contextual embeddings generated from large corpora. TopGuNN is demonstrated for a training data augmentation use case over the Gigaword corpus. Using approximate k-NN and an efficient architecture, TopGuNN performs queries over an embedding space of 4.63TB (approximately 1.5B embeddings) in less than a day.
 
 # Summary. An optional shortened abstract.
-summary: To collect training data for natural language processing (NLP) models, researchers have to rely on
-manual labor-intensive methods like crowdsourcing or hiring domain experts. Rather than relying on such
-techniques, we present TopGuNN, a system to make it quick and easy for researchers to create a larger training
-set, starting with just a few examples.
+summary: To collect training data for natural language processing (NLP) models, researchers have to rely on manual labor-intensive methods like crowdsourcing or hiring domain experts. Rather than relying on such techniques, we present TopGuNN, a system to make it quick and easy for researchers to create a larger training set, starting with just a few examples.
 
 tags:
 - Source Themes
