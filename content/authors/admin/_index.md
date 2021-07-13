@@ -18,11 +18,11 @@ organizations:
   url: "https://www.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Narrative Event Schemas, Personality Profiling, Persuasive Content-Messaging, and A.I. in Mental Health.
+bio: My research interests include Cross-Lingual Information Retrieval, Multilingual Information Retrieval, Narrative Event Schemas, Event Extraction, Personality Profiling, and Persuasive Content-Messaging.
 
 interests:
 - Monolingual and Multilingual Information Retrieval
-- Narrative Event Schemas and event extraction
+- Narrative Event Schemas and Event Extraction
 - Persuasive Content Messaging
 
 
