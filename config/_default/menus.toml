@@ -38,20 +38,15 @@
   url = "#posts"
   weight = 70
 
-#[[main]]
-#  name = "Biblia"
-#  url = "#biblia"
-#  weight = 80
-
 [[main]]
   name = "Gallery"
   url = "#gallery"
-  weight = 90
+  weight = 80
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 100
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
