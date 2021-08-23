@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rebecca Iglesias-Flores
+name: Rebecca 
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Cross-Lingual Information Retrieval, Multilingual Information Retrieval, Narrative Event Schemas, Event Extraction, Personality Profiling, and Persuasive Content-Messaging.
+bio: My research interests include Cross-Lingual Information Retrieval, Multilingual Information Retrieval, Event Extraction, Narrative Event Schemas, Personality Profiling, and Persuasive Content-Messaging.
 
 interests:
 - Information Retrieval
@@ -47,7 +47,7 @@ social:
   link: https://twitter.com/tensorglow
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?authuser=1&user=4oKbAT8AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/bikegirl
