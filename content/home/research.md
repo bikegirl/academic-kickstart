@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Research"
-subtitle = "PhD Research Projects"
+subtitle = "Graduate Research Projects"
 
 [content]
   # Page type to display. E.g. project.
